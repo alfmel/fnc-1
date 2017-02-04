@@ -1,4 +1,8 @@
-# Stance Detection dataset for FNC-1
+# My version of FNC-1 corpus
+
+This is my version of the FNC-1 training corpus. It simply splits the `train_bodies.csv` file into individual files named by the `Body ID`. I figure others may find this useful, so I decided to contribute.
+
+## Stance Detection dataset for FNC-1
 
 For details of the task, see [FakeNewsChallenge.org](http://fakenewschallenge.org)
 
