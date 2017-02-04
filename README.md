@@ -2,6 +2,8 @@
 
 This is my version of the FNC-1 training corpus. It simply splits the `train_bodies.csv` file into individual files named by the `Body ID`. I figure others may find this useful, so I decided to contribute.
 
+The split article bodies showed there are only 1,683 unique article bodies. The `article_frequencies.py` script iterates through the `train_stances` file, extracts the unique Body IDs and returns the use frequency of each article body. This helped me verify the integrity of the corpus.
+
 ## Stance Detection dataset for FNC-1
 
 For details of the task, see [FakeNewsChallenge.org](http://fakenewschallenge.org)
