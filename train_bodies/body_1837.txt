@@ -1,0 +1,11 @@
+It seems like robots are everywhere these days, and now they’re rolling around Microsofts Silicon Valley campus R2-D2-style to fight crime and keep everyone safe. At least that’s the idea behind a pilot program the company ran last week to test a fleet of five K5 security guard robots.
+
+Designed and manufactured by robotics company Knightscope, K5s weigh 300 pounds and are 5 feet tall. They use cameras and sensors to keep track of their surroundings and look for suspcious activity. They can “see” license plate numbers and even analyze faces. While K5s aren’t equipped with weapons (and can’t run or get in someone’s face anyway), they do have onboard alarms and sirens to alert people if something bad is going on. And if they spot something that a person should handle, they can call a human security guard over. The K5s also use laser scanning and GPS for navigating, weather sensors, and, of course, Wi-Fi connectivity.
+
+Stacy Stephens, Knightscope’s co-founder and vice president of sales and marketing, told MIT Tech Review, “This takes away the monotonous and sometimes dangerous work, and leaves the strategic work to law enforcement or private security, depending on the application.”
+
+K5s are mostly meant for spotting strange or unusual behavior, but if you’re in trouble you can also use them to call for help. They have battery life of about 24 hours and can automatically bring themselves back to their charging stations when they’re low on juice. And it’s true that there’s artificial intelligence coordinating an A5’s actions and making decisions about where it should go and what it should do next. But reaction to the robots seems kind of alarmist.
+
+ExtremeTech writes that by testing the robots, Microsoft is “[s]howing a rather shocking disregard for the long-term safety of human civilization.” That and other comments might be meant as tongue-in-cheek, but the A5s don’t seem any different from the robot guards South Korea piloted in prisons in 2012 or even Boston Dynamics’ Atlas robot, which is designed to be used in dangerous situations like natural disaster relief or fire rescues.
+
+If they were armed, A5s might seem scarier, but as eyes and ears that never get tired and can just endlessly putter around a big campus, A5s seem like a reasonable solution.

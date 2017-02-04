@@ -1,0 +1,11 @@
+Here’s an important heads-up: If you keep documents in your iCloud Drive, don’t use iOS 8’s “Reset All Settings” option. It could delete files stored in the cloud.
+
+The bug was discovered by MacRumors, who found that selecting the “Reset All Settings” option from Settings in iOS 8 will erase iWork-related files in iCloud Drive.
+
+This is not the way it’s supposed to work. When you reset an iPhone or iPad’s settings, iOS will even tell you that no data or media will be deleted. But in iOS 8, this isn’t working as intended.
+
+The good news is if you don’t use iWork, you don’t have anything to fear: The deleted files bug seems to be specific to iWork documents. But you should still probably stay clear of the “Reset All Settings” option until Apple gets this sorted out. Better safe than sorry.
+
+Source: Macrumors
+
+Via: iDownloadBlog

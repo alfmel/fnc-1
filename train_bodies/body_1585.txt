@@ -1,0 +1,15 @@
+Apple was light on technical specifications in announcing its forthcoming Watch earlier this month, but one analyst has checked with the company's supply chain to find component makers expect the final shipping product to include 512 megabytes of RAM, and a "mainstream version" with 4 gigabytes of internal storage.
+
+The details were reported in a new research note to investors on Monday by Timothy Arcuri of Cowen and Company. The note, which was provided to AppleInsider, claims that the 512 megabytes of mobile DRAM will likely be supplied by Samsung, Hynix and Micron.
+
+As for the internal storage, Arcuri believes Apple may offer an 8-gigabyte version of the Watch in addition to the standard 4-gigabyte version, but he said the larger-capacity option will not likely be the default configuration. He expects the memory will come from "most major NAND suppliers."
+
+As for other internal components, Arcuri said he expects the Apple Watch to feature a wireless combination chip similar to the Broadcom BCM43342 found in the iPhone 5s. Interestingly, that chip includes a GPS radio, which Arcuri admitted is "somewhat at odds" with Apple's announcement, where the company said the Watch will require being tethered to an iPhone in order to offer GPS data.
+
+The analyst offered no explanation for this discrepancy, but it's possible that the chip could be a modified version that lacks GPS, or Apple may simply decide not to enable the functionality in order to improve battery life. The company has said it expects users will have to recharge the Apple Watch nightly.
+
+Other companies in the Apple Watch supply chain are said to be a wireless charging integrated circuit from Integrated Device Technology, NFC chips from both NXP and AMS, power management integrated circuits from Maxim Integrated Products and Dialog Semiconductor, a MEMS sensor from Invensense, microcontroller by STMicroelectronics, and Wi-Fi front-end by Skyworks.
+
+The Apple Watch was announced earlier this month, but Apple focused on the design and level of customization available in the forthcoming wearable device, rather than specifications and storage capabilities. Even pricing remains a mystery, with the company saying the Apple Watch will start at $349, but no breakdown of sizes or collections given.
+
+The Apple Watch is scheduled to go on sale in early 2015. It will include a heart-rate monitor, fitness tracking, support for Apple Pay and Siri, and will be the first Apple device to feature wireless inductive charging.

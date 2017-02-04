@@ -1,0 +1,11 @@
+Apple originally planned for the Apple Watch to have a whole range of exciting health-tracking features, but the company had to cut many of them before its anticipated release this April, The Wall Street Journal reports.
+
+The Apple Watch was meant to feature a system to track how stressed you are by measuring the conductivity of skin. You sweat more if you're nervous, and that makes your skin more conductive.
+
+The Watch also included an electrocardiogram feature that measures a user's heart rate (that's more in-depth than simply measuring a pulse). But Apple couldn't get the health-tracking features to work in the way it wanted. It found that people with hairy arms or dry skin had trouble using the health monitors. And the watch didn't work properly on people who wore it too loosely around their wrist.
+
+Other features that didn't make it into the final Apple Watch were blood-pressure and blood-oxygen-level tracking, according to The Journal. Those would have been tricky for Apple to include because providing medical advice or guidance from that data comes under the regulation of the FDA (Food and Drug Administration) in the US. We do know, however, that Apple secretly met with the FDA in 2013 to find out which features would come under the agency's regulation.
+
+Apple was forced to cut the advanced health-tracking features from the Apple Watch because it simply couldn't get them to work. That doesn't mean that it isn't going to add them back in future versions of the device, though.
+
+Elsewhere in its article, The Journal says the Apple Watch was known at Apple by the name "black hole" because it kept drawing in more and more resources. Development of the device reportedly took over four years.

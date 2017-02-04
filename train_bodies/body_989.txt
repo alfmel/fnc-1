@@ -1,0 +1,11 @@
+Industry sources indicate Apple is planning to lean heavily on Samsung as a component supplier for both new iPhone 6 builds and the upcoming Apple Watch, reports BusinessKorea (via G for Games). If true, this would be a marked change from Apple's reported goal of lessening its reliance on Samsung by seeking alternative suppliers for critical hardware components.
+
+According to the report, Apple is looking to Samsung to supply RAM, NAND flash storage, and batteries for future iPhone 6 production, supplementing or replacing current suppliers for those components.
+
+NAND flash has been a particular area of concern for Apple according to recent news reports, with the company's decision to use cheaper and slower TLC (triple-level cell) flash memory for larger-capacity iPhone 6 and 6 Plus models being blamed for sporadic crashing issues. Apple has reportedly moved to stop the use of its current TLC NAND flash chips and supposedly is back at the negotiating table with the South Korean supplier.At first, Apple discussed with Samsung about the supply of NAND flash for the iPhone 6. Due to problems with prices, Toshiba's TLC NAND flash was used in the 128GB models, and components made by SK Hynix, Toshiba, and SanDisk were used in the 64GB models.
+
+However, as overseas IT news sites reported functional defects in the 128GB models, Apple is said to be considering whether or not to replace the TLC NAND flash made by Toshiba with Samsung's own TLC NAND flash. If Apple and Samsung strike a deal, Samsung will supply both DRAM and NAND flash to the iPhone 6.Beyond the iPhone 6, the same Korean industry sources also claim Samsung will supply Apple with application processors for the Apple Watch, which is slated to debut in early 2015.
+
+Apple touts the Apple Watch as using a new "S1" module for the internals that seals nearly all of the internal components into a single resin-filled package for durability. The individual components of the S1 are undoubtedly being provided by several different manufacturers, but according to today's report the main application processor portion will be coming from Samsung.
+
+Related roundups: iPhone 6, iPhone 6s (2015), Apple Watch

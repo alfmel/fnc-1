@@ -1,0 +1,15 @@
+In designing its first wearable device in the Apple Watch, Apple looked to incorporate a variety of highly advanced health functions with an eye on creating a holistic monitoring device, but ultimately scrapped those plans due to technological and regulatory hurdles.
+
+According to The Wall Street Journal, sources claim Apple Watch was supposed to be much more than the device unveiled last year and slated to launch in April. Specifically, Apple executives wanted to produce a cutting edge health-monitoring tool, one capable of measuring a user's blood pressure, heart rate, stress level and more, said people familiar with the matter.
+
+The publication says the setbacks forced Apple executives into a corner when it came to marketing the device to the general consumer. As it stands, Apple Watch boasts a variety of sensors, including accelerometers, touch inputs and a bespoke optical heart rate sensor, the latter of which connects to the iOS Health app for fitness and wellness tracking. While polished and presented in a slick package, Apple Watch is powered by technology on a par with competing devices running flavors of Android.
+
+Aside from catchall smartwatch devices, a number of standalone solutions for off-the-shelf medical style monitoring already exist in the form of products — usually wrist-worn — from smaller manufacturers and startups. For example, the W/Me band incorporates a specialized sensor to measure a user's autonomic nervous system for keeping track of stress levels, while the latest products from Fitbit tout all-day heart rate monitoring.
+
+Apple started development of its Watch four years ago, with an eye on health and fitness, but the project was quickly dubbed a "black hole" for sucking in resources. Advanced technology and component reliability failed to meet Apple's rigorous standards, sources said.
+
+For example, skin conductivity sensors showed promise in early designs, but later testing showed actual results varied person to person, with everything from hairy arms to strap tightness contributing to unreliable readings. The company also investigated incorporating blood pressure and blood oxygen measurement features, but results were inconsistent.
+
+Apple is seemingly investing on health-minded devices and programs, as evidenced by recently discovered job postings, but will take a more mainstream approach for the first generation Watch. Instead of focusing exclusively on health and fitness, the device is being positioned as a niche-filling fashion accessory, iOS compatible smartwatch, iPhone companion and daily communicator, among others.
+
+Apple Watch does, however, sport a few Apple-only features, including Apple Pay integration and WatchKit development tools that are expected to foster a rich ecosystem of bite-sized apps later this year.

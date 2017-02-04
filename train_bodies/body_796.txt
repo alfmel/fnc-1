@@ -1,0 +1,11 @@
+Apple Watch owners may never need to worry about being outbid in an eBay auction again, as a new job listing posted by the Internet auctioneer suggests advanced development of a bespoke Apple Watch app.
+
+Those familiar with eBay know that keeping tabs on live bids is crucial to winning an auction, and eBay is apparently working on a project that could potentially stream results directly to your wrist, according to a recently posted job listing for an Apple Watch software engineer. The ad first appeared on eBay's official careers webpage in November, but gained wider exposure when it was posted to LinkedIn earlier this month.
+
+According to the ad, eBay's Apple Watch app is being developed by the company's New Technology Group as an augmentation of its flagship iOS app, much like other first-generation titles announced by Apple. It is unclear if eBay for Apple Watch will work untethered, that is without constant connection to an iPhone, but with the wearable's Wi-Fi capabilities, such an implementation is in the realm of possibility.
+
+An ideal candidate will have five years of experience in software design and development and at least three years experience developing iOS apps object-oriented design patterns and principles. Development experience with Android or Windows 8 is considered a bonus.
+
+Alongside Apple Watch apps, eBay's New Technology Group is tasked with developing solutions for CarPlay, Apple TV and other "opportunities within the Apple ecosystem." The division is based out of Portland, Ore. and has over 200 employees in its ranks.
+
+Apple CEO Tim Cook said during the company's quarterly conference call on Tuesday that Apple Watch is scheduled to ship in April, just making a self-imposed "early 2015" deadline. The eBay job listing didn't specify if or when the Apple Watch app would be completed, but a two-month turnaround could be possible depending on feature depth and existing progress.

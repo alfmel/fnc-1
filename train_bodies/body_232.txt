@@ -1,0 +1,13 @@
+Apple will offer a low power mode on Apple Watch to help boost it through longer days, according to a new report that also takes a stab at dispelling rumors that the company may have elected to all some long-rumored sensors last minute.
+
+With the exception of Pebble products, most current and upcoming smartwatches - including the Apple Watch - will last no more than a day on a single charge. To help mitigate this issue, Apple has reportedly developed a still unannounced software feature of the Apple Watch called Power Reserve, according to the New York Times. It's said to cut power to all non-essential functions and display only the time, helping to extend the watch's life in cases where a recharge may not be possible. The function is similar in concept to the Battery Saver mode in Android 5.0, which can push smartphone battery life from minutes to hours by reducing processor use.
+
+Apple previously stated that the Watch's battery should last only a normal day, requiring a fresh charge at night. Although standard among smartwatches, the issue has created controversy, since many had been hoping Apple would solve the smartwatch industry's battery woes with its inaugural effort.
+
+The report also notes that despite some recent claims to the contrary, Apple's decision to abandon some advanced health tracking features came over 18 months ago, rather than at the last minute. Early experiments in tracking factors like blood pressure and stress are said to have been ditched after the sensors proved unreliable and otherwise unworkable. Instead, the first-generation device only features motion and heart-rate sensors, once again mirroring some competing smartwatches.
+
+The Times also highlights some of the challenges that faced the Apple Watch's development cycle, noting that Apple not only encountered technical difficulties in achieving its ideal design but was also forced to battle the loss of key engineers, some of whom were poached by Google-owned home automation outfit Nest Labs. Among them was Bryan James, who became an Engineering vice president at Nest early last year.
+
+Chief among some of the later challenges was keeping a tight lid on secrecy surrounding the product while simultaneously deploying evaluation units into the real world, for which Apple engineers created dummy casing, including some resembling Samsung smartwatches.
+
+Apple is due to reveal more details about the Watch at a San Francisco press event on March 9th. AppleInsider will be offering live coverage of the event as it progresses.

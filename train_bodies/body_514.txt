@@ -1,0 +1,25 @@
+Claim: Kanye West has been banned from all future award shows.
+
+FALSE
+
+Example: [Collected via email, February 2015]
+
+Kanye West banned from attending future grammy awards. Is this real?
+
+Origins: On 9 February 2015, the entertainment website Adobo Chronicles published an article claiming that rapper Kanye West had been barred from all future award shows:
+
+He did it again. Rapper Kanye West reprised his most infamous stunt at Sunday night's Grammy awards, taking the stage as Beck was accepting the album of the year award.
+
+After this latest incident, organizers of the major awards shows like the Grammys, MTV Video Music Awards, People's Choice Awards and the Oscars have unanimously agreed to disinvite and bar West from their respective ceremonies. The television networks that air these awards programs also joined in the 'West boycott.'
+
+While it is true that West created a stir at the 2015 Grammy Awards when he briefly interrupted Beck during the musician's acceptance speech (just as he had done to Taylor Swift in 2009), Kanye has not been banned from all future award shows.
+
+The Adobo Chronicles is another "satire" publication that publishes fake news. A disclaimer on the site states that all articles published by them are a mix of facts and fiction:
+
+The Adobo Chronicles is your source of up-to-date, unbelievable news. Everything you read on this site is based on fact, except for the lies.
+
+Why the title, The Adobo Chronicles, you might ask? Well, adobo is the national dish of our home country. You see, adobo is usually made with pork or chicken, boiled and simmered in a mixture of vinegar, soy sauce and other spices. When writing stories for this blog, we let the news sizzle and simmer in our mind in a mixture of fact and fiction, then we spice it up with figments of our imagination.
+
+var CasaleArgs = new Object(); CasaleArgs.version = 2; CasaleArgs.adUnits = "4"; CasaleArgs.casaleID = 159339;
+
+<!-- google_ad_client = "pub-6608306193529351"; google_ad_width = 468; google_ad_height = 60; google_ad_format = "468x60_as"; google_ad_type = "text"; google_ad_channel = "0054321535"; google_color_border = "000000"; //-->

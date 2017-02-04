@@ -1,0 +1,46 @@
+Comcast has lately found itself issuing public apologies on a somewhat regular basis as subscribers share tales of horrible customer service.
+
+But the latest accusation leveled against Comcast—that it is threatening to disconnect customers who use the anonymity-providing Tor browser—hasn't been backed by convincing evidence that it's happening. And Comcast dismisses the rumor as “wildly inaccurate.”
+
+It began Saturday with a site called DeepDotWeb claiming that Comcast has “declared war on Tor Browser.”
+
+“Reports have surfaced (Via /r/darknetmarkets and another one submitted to us) that Comcast agents have contacted customers using Tor and instructed them to stop using the browser or risk termination of service,” the article said. “A Comcast agent named Jeremy allegedly called Tor an ‘illegal service.’ The Comcast agent told its customer that such activity is against usage policies. The Comcast agent then repeatedly asked the customer to tell him what sites he was accessing on the Tor browser. The customer refused to answer. The next day the customer called Comcast and spoke to another agent named Kelly who reiterated that Comcast does not want its customers using Tor.”
+
+“Kelly” allegedly told the customer that “Users who try to use anonymity, or cover themselves up on the Internet, are usually doing things that aren’t so-to-speak legal. We have the right to terminate, fine, or suspend your account at anytime due to you violating the rules.”
+
+“I think the story is nonsense”
+
+There was good reason to be skeptical of this report. A search of the subreddit /r/darknetmarkets for Comcast and Tor turned up nothing. (UPDATE: Here is the reddit post quoted by DeepDotWeb.) Any organized Comcast campaign against users of Tor would likely inspire numerous customer complaints, not just a few, as noted by Cato Institute Research Fellow Julian Sanchez and security researcher Robert Graham, who wrote on Twitter:
+
+
+"This story is wildly inaccurate," Comcast spokesperson Charlie Douglas told Ars. "Customers are free to use their Xfinity Internet service to visit any website or use it however they wish otherwise."
+
+While Comcast publishes an acceptable use policy, the company "doesn’t monitor users’ browser software or Web surfing and has no program addressing the Tor browser," Douglas said.
+
+In some previous cases where customers have documented poor customer service, Comcast has admitted fault and said its customer service agents acted in error. In this case, Comcast says it investigated the story and found no evidence that the encounters ever happened.
+
+"The anecdotal chat room evidence provided is not consistent with our agents’ messages and is not accurate," Douglas said. "Per our own internal review, we have found no evidence that these conversations took place, nor do we employ a Security Assurance team member named Kelly. We respect customer privacy and security and only investigate and disclose certain information about a customer's account with a valid court order or other appropriate legal process."
+
+Comcast's Jason Livingood, VP of Internet communications and engineering, also disputed the report in a blog post today. "Our customers can use Tor at any time, as I have myself. I’m sure many of them are using it right now," he wrote.
+
+The DeepDotWeb report has other problems. It falsely stated that "Comcast already monitors its customers internet usage to prevent them from downloading pirated media in violation of copyright laws. Under the 'Six Strikes' plan, Comcast customers who are caught by Comcast pirating copy-written material are e-mailed by Comcast and told to cease the activity. Comcast will continue monitoring them, and if they violate the 'Six Strikes' plan five more times, their Internet service will be terminated."
+
+In fact, Six Strikes reports are the result of content companies monitoring online activity and notifying Internet service providers of potential violations. Comcast says it uses e-mail and in-browser alerts to "educate" customers about copyright violations, but it doesn't cut off service. Nonetheless, the DeepDotWeb report was credulously re-reported by a few other news outlets that didn't seek further confirmation. The stories are being shared by Twitter users, who often add expressions of outrage:
+
+
+Tor isn't for criminals
+
+Tor Project Executive Director Andrew Lewman told Ars that it doesn't have enough information on the Comcast rumors "to know whether this is a company-wide practice." He noted that "people with uncensored connections to the Internet can use Tor to share their access with human rights defenders and journalists behind national firewalls. We tend to have good relationships with Internet service providers in free societies for this reason."
+
+Tor itself was unfairly branded "the Web browser for criminals" by one news report:
+
+
+Enlarge
+Business Insider
+While Tor can be used by criminals, it was created by the US Naval Research Laboratory to protect government communications and is used by many people with privacy concerns, including activists in countries with repressive governments. For anyone hoping to use Tor to mask downloads of pirated material, the Tor Project itself says that "File sharing (peer-to-peer/P2P) is widely unwanted in the Tor network, and exit nodes are configured to block file sharing traffic by default." (Comcast was caught interfering with BitTorrent traffic in 2007.)
+
+If the customers described by DeepDotWeb did have discussions with Comcast employees, it's possible they were being notified of a pending legal action. DeepDotWeb quoted Comcast as saying, "if we’re asked by a court to provide customer information, then we ask for a reasonable amount of time to notify the customer so they can decide if they would like to hire a lawyer and if they do, then we turn the case over to them and they proceed with the judge directly and we step away."
+
+Douglas told Ars that "it's impossible to speculate" whether that's what happened in this case, since the reports mentioned no specific customers.
+
+If any Ars readers are subscribers of Comcast and use the Tor browser, we'd love to hear about your experiences in the comments.

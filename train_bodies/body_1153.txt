@@ -1,0 +1,13 @@
+Apple is targeting 19 hours of battery life under mixed usage conditions for its upcoming Apple Watch wearable, consistent with Apple CEO Tim Cook's estimate that users will want to charge the device daily.
+
+When Cook unveiled Apple Watch in September, he was careful to paint in broad strokes, revealing a wide range of features, but little in the way of device specifications. The Apple chief later commented that  that owners will "wind up charging it daily," though the company has remained tight lipped over the past four months.
+
+On Thursday, people familiar with Apple's plans shed light on the situation, saying that as of 2014 the company targeted battery life at 19 hours of mixed usage, reports 9to5Mac. More specifically, Apple was aiming to squeeze out 2.5 to 4 hours in "active" app use, 3 days in standby and 4 days in sleep mode.
+
+However, sources warn that a first-generation version may not reach Apple's goals. The same people say current standard use estimates put Apple Watch battery life at around 3.5 hours, dropping to 2.5 hours under heavy load, while power-saving passive modes can milk 2 to 3 days.
+
+Apple is still tweaking software to find the right mix of performance and survivability. For example, the company is targeting 4 hours of continuous exercise tracking when linked to an iPhone, suggesting raw data is handed off to the more capable handset for processing.
+
+Battery life continues to be one of the most significant technical hurdles for smartwatch manufacturers and Apple faces the same predicament with its small form factor device. Apple Watch packs in a custom-designed S1 system-on-chip approximately as powerful as the A5 processor, as well as a Retina-quality display, both major draws on what is expected to be a relatively low-capacity battery cell.
+
+Apple has not yet set a firm release date for Apple Watch, but holds to an "early 2015" launch.

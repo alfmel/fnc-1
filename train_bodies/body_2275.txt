@@ -1,0 +1,37 @@
+When Apple released the first iPhone, it only came with Apple's pre-loaded applications.
+
+A year later, Apple opened the "App Store", which allowed developers to make applications for the iPhone.
+
+The App Store is probably the smartest thing Apple did for the iPhone. It created a rich ecosystem of applications that made the phone an indispensable tool for hundreds of millions of people. It also launched billions of dollars worth of new businesses. (Think Instagram, Uber, Snapchat, etc.)
+
+With the Apple set to release an Apple Watch, a lot of people expect a similar thing is going to happen with third-party applications from developers.
+
+Developers we've spoken with caution that people should temper expectations, at least initially. They say Apple is limiting what Apple Watch apps are capable of doing early on in order to ensure a smooth launch and maintain battery life.
+
+"I think Apple is taking a similar approach with the Apple Watch and iPhone, saying to themselves 'We don't have an option to fail on this,'" Sumit Mehra, CTO of app studio Y Media Labs told Business Insider. "So Apple is limiting all this nice stuff, all these sensors, NFC, haptics, heartbeat sensor, gyrometer — everything. Apple is only going to allow developers to do the basic stuff to just get the Apple Watch out there, because either it's not ready, or they don't know what the implications of something like this could be."
+
+Mehra says he thinks it all boils down the Apple's continued efforts to increase the battery life of the Apple Watch. Accessing sensors drains the battery life, so Apple is preventing developers from using these sensors in their apps to avoid launching a device with a lineup full of battery-hogging apps.
+
+"Sensors take up a lot of battery, and they don’t want every app out there on the Apple Watch using these sensors because all of a sudden this watch will only give you four hours of battery life, and then it’s not a watch anymore if I have to charge my wrist every four hours."
+
+Apple currently doesn't allow developers to create standalone apps for the Apple Watch, though Apple has promised it will open up WatchKit later this year. For now, apps offload all the heavy lifting and computations to the tethered iPhone, which saves battery and gives developers access to the iPhone's powerful processor.
+
+What can Apple Watch apps do at this very moment? They can send actionable notifications, talk to your iPhone through app extensions, and present summary information in what Apple is calling "glances."
+
+Markiyan Matsekh, who has been developing a third-party Tesla companion app for the Apple Watch at app-company Eleks, says the limitations have presented a challenge for developers.
+
+"The general impression I’d say is that the Apple Watch didn’t match the expectations," Matsekh told Business Insider. "We saw lots of fun stuff during the Apple Watch’s presentation, and in its description and marketing materials, but we didn’t find a way to implement them in real life. We had a vision of what we’d like to achieve, and in the end we had to get rid of lots of features because they just weren’t possible in the current state of WatchKit."
+
+Matsekh says the Eleks team was eventually able to create an app that was "more or less fine," but says the current limitations mean "it’s not as cool as we’d like it be."
+
+"It is possible to build something, but it’s much more limited than we’d expect," he says.
+
+Matsekh originally wanted to use the Apple Watch's digital crown, the circular knob used as input on the watch, as a way for users to control the interior temperature of their Tesla. Apple's guidelines, however, state that you can only use the digital crown for scrolling or system features, so they had to scrap that and go with a second-best solution.
+
+"What I think Apple is trying to do is to educate Apple Watch users of some basic user experience guidelines to try to make it as simple as possible," Matsekh says. "That may have been the reason behind this. It’s not that they didn’t have the time or resources to make these features available, I think it was a conscious choice to limit customization to make the apps follow the guidelines and make them simpler for users."
+
+"Any engineer would say that Apple is just trying to conserve battery life so that the user has a good experience," Y Media Labs CTO Sumit Mehra says. "As a developer, do I like it? Probably not. But do I like it as a user? Absolutely, because at the end of the day I don’t want to be charging my watch twice a day."
+
+It's no secret that battery life is still a major concern for app developers, and nobody knows how long the Apple Watch will last before it needs a charge. Developers are estimating between 19 and 24 hours, but Apple has yet to announce specifics.
+
+For Matsekh, one thing is for certain: "If this watch doesn’t live a day, it doesn’t have any chance of survival."

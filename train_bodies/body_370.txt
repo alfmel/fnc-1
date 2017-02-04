@@ -1,0 +1,23 @@
+Ignoring the idiotic instances where people intentionally started bending iPhone 6 units in stores just to prove it can be done, Apple did have an iPhone 6 Bendgate problem, which genuinely affected some early buyers. Early reports have shown that the iPhone 6 Plus was more prone to bending than its smaller sibling, with some users explaining why the iPhone 6 Plus can bend in a certain way — apparently the area around the bottom volume button lacks the kind of reinforcement that can prevent bending. However, Apple might have fixed the issue, one Reddit user seems to indicate.
+
+Redditor doctorkuddles says that he just purchased an 128GB iPhone 6 Plus that feels different than his wife’s early 16GB iPhone 6 Plus model.
+
+“I can’t prove anything. I can only look at my iPhone 6 Plus I got yesterday, and the 6 Plus my wife got on September 20th,” he explains. “We have identical phones minus the GB size (I have 128GB, she has the 16GB) Both are space gray. I started looking at both phones closely.
+
+“First difference I noticed is the smoothness on the week one phone compared to the week 6 (?) phone. Completely softer and smoother. The second difference I noted was when I started tapping (‘flicking’) the back and sides of both phones. Right where the previous ‘bends’ were in previous 6 Pluses (above and below the volume rocker), there is a night and day difference in sound,” he adds.
+
+doctorkuddles further says he used a stethoscope to listen to the iPhone 6 Plus and found that his 128GB phone sounds “much more dull toned, indicating to me it’s more solid” whereas “her phone had a lot more percussion sound, indicating that area was previously hollow”
+
+He then took it under a microscope, without dismantling it. He looked through the cracks of the volume buttons and spotted a “red colored object placed in the volume down button crank.”
+
+Furthermore, he weighed and measured both devices and found out that while both devices are identical in size, the 128GB version is 21g heavier than the 16GB model.
+
+“I just don’t see the memory being that much heavier,” he said.
+
+No actual images or videos of any of these findings have been published, so it’s not clear whether doctorkuddles has actually discovered anything.
+
+Interestingly, he contacted the teardown experts at iFixit on the matter, who purchased a brand new 128GB iPhone 6 Plus and weighed it.
+
+“It weighs 173.5 grams, a whopping 0.8 grams more than the Day One unit,” iFixit’s mdjorie wrote on the same Reddit thread. “I don’t know what’s up with your new unit, OP, but our new unit definitely doesn’t weigh 21 grams more than the Day One device.”
+
+It’s not clear whether Apple made any internal design changes to its iPhones since the Bendgate issue was first reported, or whether it would be able to roll out changes so fast in case it did. But a previous report did reveal that Apple takes product launch-related issues and flaws very seriously and looks to fix problems as fast as possible following their discovery.

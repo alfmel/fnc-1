@@ -1,0 +1,11 @@
+Forget health or messaging. The forthcoming Apple Watch could end up being a lynchpin for e-commerce.
+
+EBay, whose website allows people to buy and sell all sorts of things both new and old, is seeking an iOS Engineer/Architect who can work on “elegant solutions for the Apple Watch that will complement our core iOS eBay app,” according to a job posting from the company.
+
+The listing was first published on eBay’s job page in November, but it has been getting more attention thanks to its appearance on LinkedIn this month, according to a report today from AppleInsider.
+
+E-commerce companies like Flipkart have developed apps for Android Wear watches. Now, as Apple gears up to start shipping the Apple Watch in April, e-commerce companies will presumably develop for it, too.
+
+Apple first announced the WatchKit software development kit for Apple Watch in November.
+
+But eBay isn’t only interested in the Apple Watch as a development platform. In addition to an Apple Watch app, eBay’s New Technology Group is planning “solutions” for CarPlay and Apple TV, according to the job posting.

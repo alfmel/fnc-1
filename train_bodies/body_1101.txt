@@ -1,0 +1,10 @@
+In a set of artist renditions, 9to5Mac offers a look at Apple's long-rumored 12-inch Retina MacBook Air. The renditions and details shared in the report are consistent with previous reports on the machine, although plans do sometimes change during the development process.
+
+As previously described in rumors, the next MacBook Air will have roughly the same footprint as the current 11-inch model, but include a 12-inch display nestled inside narrower bezels. The machine's keyboard will also extend from edge to edge while the speakers move to a set of grilles above the keyboard.
+
+Comparison of 12-inch Retina MacBook Air (left) with current 11-inch MacBook Air (right)
+As part of Apple's effort to reduce the thickness of the MacBook Air, the new 12-inch model will do away with nearly all of the ports currently found on the machine, including the usual USB and MagSafe ports. Instead, the machine's sides will include only a headphone jack, a pair of microphones, and a USB Type-C port that appears set to handle both connectivity and charging.
+
+Apple's new Retina MacBook Air is expected to run on new Broadwell Core M to allow for the thin, fanless design and perhaps come in multiple color options similar to the company's iPhone and iPad lineups. The machine has been rumored to be entering production as soon as this month, although it is unclear whether Apple may wait until its Worldwide Developers Conference in June to launch the device or introduce it earlier in the year.
+
+Related roundup: Retina MacBook Air

@@ -1,0 +1,5 @@
+"Users who try to use anonymity, or cover themselves up on the internet, are usually doing things that aren’t so-to-speak legal; we have the right to terminate, fine, or suspend your account at anytime due to you violating the rules -- Do you have any other questions? Thank you for contacting Comcast."
+
+That's from a Comcast customer, who says it's a transcript of a conversation s/he had with a Comcast rep after noticing that Tor, an online privacy- and anonymity-enhancing tool loathed by the NSA, was blocked on her/his Internet connection.
+
+Comcast Declares War on Tor? [Nathan Wold/Deep Dot Web] (Thanks, Alan!)

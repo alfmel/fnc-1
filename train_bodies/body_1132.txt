@@ -1,0 +1,21 @@
+The value of breaking into the top 100 ranking on the App Store - or higher, really - is fairly well-established (if not a fool-proof way to make a profit).
+
+The same is true whether you’re a developer in the UK or China. And while Apple has some fairly strongly worded guidelines about app store 'manipulation', that doesn’t stop people trying it.
+
+Well now that effort seems to have been summed up in a single photograph, which has recently gone viral in China:
+
+The photo appears to show a woman in front of a rack of about 100 iPhone 5Cs, downloading apps repeatedly from different accounts. It was published in local media, and resurfaced on Apple rumors site Cult of Mac and Tech In Asia.
+
+However, the photo is completely unsourced, low-quality and unverified — so while many have speculated this is evidence of ranking manipulation ‘farms’, that's not quite right. The presence of the iPhone 5C suggests it's a relatively recent picture, but whether or not that means ranking manipulation has any effect in the real world we just don't know.
+
+Also unclear is the veracity of another image going around which shows the prices being charged to break apps into the rankings list.
+
+That picture claims it will cost a developer the equivalent of £7,400 to get an app into the Top 10, and about six times as much to keep it there for a week.
+
+While app store rankings manipulation is clearly an issue in China - at least, there are companies willing to charge for the service, as evidenced by a simple search on local e-Commerce sites - what’s not clear is how much of an impact this would actually have on the App Store.
+
+For its part, Apple has taken a tough line on rankings cheats. Apple says in its guidelines for developers that any effort to cheat the system will be dealt with swiftly and severely:
+
+"If you attempt to cheat the system (for example, by trying to trick the review process, steal data from users, copy another developer's work, or manipulate the ratings) your Apps will be removed from the store and you will be expelled from the developer program."
+
+"Developers who attempt to manipulate or cheat the user reviews or chart ranking in the App Store with fake or paid reviews, or any other inappropriate methods will be removed from the iOS Developer Program"

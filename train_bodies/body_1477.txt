@@ -1,0 +1,13 @@
+We've heard rumors for some time that Apple's been less than pleased with the purported battery life of its upcoming Apple Watch. And now, it looks as though it has plenty of reason to be worried. According to a new report from 9 to 5 Mac, the Apple Watch the battery is looking at just 2.5 to 4 hours of "active application use" before it dies. Yeesh.
+
+According to 9 to 5 Mac's report, while Apple (along with everyone else who's had their eyes on one) was hoping its Watch would last for at least a full day on a single charge, it's had to significantly change its tune thanks to the power-sucking Retina screen and A5 processor:
+
+As of 2014, Apple wanted the Watch to provide roughly 2.5 to 4 hours of active application use versus 19 hours of combined active/passive use, 3 days of pure standby time, or 4 days if left in a sleeping mode. Sources, however, say that Apple will only likely achieve approximately 2-3 days in either the standby or low-power modes…
+
+But if you're hoping to use the Apple Watch for fitness tracking, there is (sort of?) better news: "Apple expects to see better battery life when using the Watch's fitness tracking software, which is targeted for nearly 4 hours of straight exercise tracking on a single charge. " Which, sure, is better than the two-and-a-half hours you'd get under normal heavy use, but there's no way this is going to be tracking more than the lone workout.
+
+As a point of comparison, the Moto 360 easily lasts a full day of mixed-use. Our own Eric Limer's watch still had a little under half of its battery left after about 16-hours of wear. Even the Samsung Gear S, which is essentially a full-fledged phone for your wrist, can go a full day easy. And of course, the Pebble Smartwach, which is admittedly a very different beast, can last close to a full week on a single charge.
+
+Still, while these numbers certainly seem awful, most people probably aren't going to be browsing Facebook and playing games on their wrist four hours. Apple expects most people to be wearing the Watch passively for the majority of the day, but while they were originally shooting for about 19 hours of "mixed usage," 9 to 5 Mac's sources say that Apple no longer thinks it can even hit that—at least not in this first generation.
+
+We've reached out to Apple for comment, and will update as soon as we hear back. [9 to 5 Mac]

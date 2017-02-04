@@ -1,0 +1,7 @@
+At least one of the big boys is planning on developing an app for the Apple Watch. eBay has posted an ad listing, looking for a developer to help them come up with a bidding app for Cupertino’s new smartwatch.
+
+Although the ad was originally posted to eBay’s career page way back in November, it has only recently come to light through an ad posted to LinkedIn. The ad says that it is looking for a dev to join eBay’s New Technology Group, which operates out of Portland with over 200 engineers.
+
+According to the ad, the ideal candidate will “design and implement elegant solutions for the Apple Watch that will complement our core iOS eBay app.” That seems to indicate that whatever presence the eBay app has on the Apple Watch, it will tie into the core iPhone app.
+
+What kind of functionality will the eBay Apple Watch app have? That’s up for speculation, although an alert app that lets you know when you’re about to be outbid, when your items have sold, and when a new watched search term pops up on the world’s largest internet auction site are all a good bet.

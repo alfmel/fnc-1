@@ -1,0 +1,13 @@
+After a disastrous iOS 8.0.1 rollout and a ton of publicity surrounding Bendgate, saying that Apple had a bad week is an understatement.
+
+Unfortunately for Apple, things aren't looking much better this week, as MacRumors reports on a particularly nasty iOS 8 bug, which could potentially erase the iWork documents stored in your iCloud drive.
+
+According to the report, the option to "Reset All Settings," found under Settings — General — Reset in iOS 8, also deletes documents from the iCloud Drive — permanently.
+
+The option, which normally resets settings to factory defaults, clearly states that "no data or media will be deleted." However, after some users on MacRumors' forum complained about the bug, MacRumors tested the option out, and indeed, all the iWork documents stored in iCloud Drive both on the iPhone and on iCloud.com were gone.
+
+Even worse, after iCloud synced with a Mac running OS X Yosemite, the documents were deleted from the Mac as well. Some of the documents — including Preview and TextEdit files — were untouched, but all iWork files seem to be affected.
+
+In some scenarios it's possible to retrieve these files from a backup folder, or via Time Machine, but nothing is certain at this point, and Apple still hasn't publicly acknowledged the bug. For now, iOS 8 users who have iCloud Drive enabled should probably avoid using the "Reset All Settings" option.
+
+Have something to add to this story? Share it in the comments.

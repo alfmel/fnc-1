@@ -1,0 +1,7 @@
+While Apple has yet to publicly announce a specific launch date for the Apple Watch beyond "Early 2015", sources speaking to 9to5Mac say the company is currently planning for a March debut in the initial wave of countries. Sources in the retail segment indicate that select store employees will undergo centralized Apple Watch training the week of February 9, with those employees in turn training others at their individual stores in the days leading up to the device's launch.
+
+One or two representatives from many Apple Stores in the United States, depending on store and market size, will be sent to Apple offices in either Cupertino, California or Austin, Texas to learn first-hand about the Watch. These training programs will take place between February 9th and February 16th.The report indicates Apple has been continuing to refine various aspects of the Apple Watch since its September unveiling, focusing mostly on software but also tweaking such components as the inductive charging mechanism.
+
+Developers are currently working with Apple's WatchKit tools and iOS 8.2 betas to build apps for Apple Watch, starting with lightweight Glances, actionable notifications, and iPhone-based apps that project portions of their interfaces to the watch. More powerful apps running directly on the Apple Watch will be possible later this year.
+
+Related roundup: Apple Watch , Tag: 9to5mac.com

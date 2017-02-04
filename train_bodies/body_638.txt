@@ -1,0 +1,12 @@
+Claim: The town of Purdon, Texas was quarantined after a family of five there tested positive for the Ebola virus.
+
+FALSE
+
+Example: [Collected via email, October 2014]
+
+News report of family of 5 in Purdon, Texas tested positive for Ebola. Town is quarantined.
+
+Origins: On 14 October 2014, the National Report published an article claiming that the town of Purdon, Texas, had been quarantined after a local family of five tested positive for Ebola. Purdon is located 70 miles from Dallas, the city in which Ebola patient Thomas Eric Duncan died of the disease. Shortly after Duncan's death, the Centers for Disease Control (CDC) disclosed that a nurse at Texas Health Presbyterian Hospital had contracted the hemorrhagic virus while caring for Duncan.
+
+The National Report article referenced both the death of Duncan and the illness of nurse Nina Pham as context for the claim about a quarantine in Purdon:
+

@@ -1,0 +1,14 @@
+There may be yet another bug in iOS 8, Apple's latest version of its mobile operating system for iPhone and iPad. This time, some users are reporting that anybody trying to reset the settings on their iPhone could accidentally delete all of their documents saved in iCloud, Apple's online backup service.
+
+MacRumors reports that multiple users of its forums have reported an issue when attempting to reset all settings on their iPhone. Apple informs you as you reset your phone settings that "no data or media will be deleted," but people are claiming that the reset wipes all of their iCloud Drive documents.
+
+The existence of the bug is not yet confirmed. We asked Apple for comment but have not yet heard back.
+
+iCloud Drive is Apple's online file storage solution for documents. According to the official Apple site, iCloud Drive can be used to "safely store all your presentations, spreadsheets, PDFs, images and any other kind of document in iCloud." It competes with DropBox and other cloud storage apps.
+
+Forum posts claim that after they complained that a settings reset deleted their files as well, Apple told them the company is waiting on engineers to fix the issue. Another reported that his account was placed in troubleshooting mode as Apple investigated.
+One poster on the MacRumors forums has this to say about the problem:
+
+" Because iOS 8 was so sluggish on my iPad 3 I reset all settings (No data or media will be deleted) and sped it up BUT deleted my iWork data! Then promptly synced and deleted it in iCloud. I have public beta of Yosemite so can't roll back via time machine. I have no pre iOS 8 backups in iTunes or iCloud to revert to (well iCloud device backups don't contain cloud documents and I should have iOS 7 backups in iTunes but can't find any. iCloud has no trash like dropbox. They seem gone forever."
+
+The launch of iOS 8 has been a PR nightmare for Apple. One update managed to stop iPhone 6 users from making calls, and Apple was forced to pull the update and quickly work on a fix.

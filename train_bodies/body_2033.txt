@@ -1,0 +1,13 @@
+Adding to Apple's iOS 8 launch troubles, a report on Monday claims the operating system's "Reset All Settings" feature for hardware wiping user preferences also deletes data stored in iCloud Drive.
+
+As discovered by MacRumors, the issue presents itself when iPhone and iPad users attempt to reset preferences via the device's Settings > General > Reset > Reset All Settings option. The feature allows users to troubleshoot possible iOS issues by reverting all system settings back to factory baselines.
+
+As OS X 10.10 Yosemite, and subsequently iCloud Drive, is not yet available for consumer download aside from Apple's public beta testing program, the effects on consumers are non-existent. However, with a large number of untrained public beta participants opting in to the service with iOS 8, the problem could become serious.
+
+According to the report, one iPad user performed the reset and found his local iWork documents deleted, which consequently wiped those same documents from the cloud when the tablet synced to iCloud. It appears only data from first-party apps connected to iCloud Drive are affected by the bug, though not all users are seeing the issue play out as described.
+
+In some cases, files are being delete upon syncing with iCloud, while other data remains untouched. It is suggested that users back up iCloud Drive documents to a local computer prior to performing the Reset All Settings operation.
+
+iCloud Drive is Apple's solution to cloud storage, syncing and collaboration. The system allows seamless file transport and storage across iOS, OS X and Windows, while enabling advanced features like document editing, asset tagging and drag-and-drop data management.
+
+Apple will activate iCloud Drive alongside the release of OS X Yosemite later this fall, bringing the company's The feature has already rolled out to beta testers, as well as the iCloud.com beta website, which now supports access and editing of stored documents.

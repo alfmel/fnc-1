@@ -1,0 +1,21 @@
+Call it Newton’s third law of Apple analysts: For every extreme reaction one way, there is an equally extreme reaction the other.
+
+In this case, what that means is that while some doomsayers are happy to write off the Apple Watch as the worst thing Apple has done since building its own smartphone, taking on the music industry with iTunes, [insert actual bad decision], others go in totally the opposite direction and predict a landslide victory in Apple’s favor.
+
+Trip Chowdhry of Global Equities Research falls somewhat into the latter category. His prediction? That the Apple Watch will have 100,000 apps ready to go when it launches in April, and that 42 million units will have sold by the end of December.
+
+Chowdry’s claim about 100,000 apps is based on his attending six Apple Watch-Kit hackathons over “the past few months.” Although I don’t doubt that there will be plenty of apps ready to go on the day, I’d be frankly shocked if it’s close to that number. By comparison, it took the iOS App Store 16 months to hit 100,000 apps — by which point it had seen approximately 2,000,000,000 total downloads.
+
+His 42 million prediction is a bit closer to the mark, and in line with other reports pegging sales as likely to fall between 30-60 million units in its first year on the market. While 42 million would be a fraction of the number of units Apple sells of the iPhone, it would still be enough to make it the runaway fastest selling new iOS device in history. The iPad, by comparison, sold 19.5 million units in its first year, while the iPhone moved a relatively paltry 5.4 million units.
+
+Chowdry thinks that the Apple Watch will then go on to convert virtually every existing iPhone user, noting: “Since Apple Watch extends iPhone functionality and provides user convenience with ‘Glance’ and ‘Notifications’ to an iPhone User, almost every current iPhone user, which are about 350 million users, will also be an Apple Watch user.”
+
+Chowdry also gives us a neat way of explaining away the fact that we spent upwards of $350 on an Apple Watch to our non-techy partners. “The $350 price of Apple Watch appears to be a non-issue,” he writes, since, “On an average an Apple Watch user will have 100 Apps installed, and one way to think about it is that the consumer is getting 100 devices for $350 ..i.e. $3.50 per device.”
+
+Finally, he argues that we shouldn’t think about a “killer app” for the Apple Watch, as:
+
+“Different people have different killer Applications for their devices. For some it is the games, for others it is the social messaging, or it is the navigation, or it is the music, or it is video, or it is email …and so on and so forth. Debating on “what is the killer app for the device” is passe’ – somewhat of pre-year-2007 thinking, when the killer App used to be “Ringtones”. Thinking of Apple Watch from the Watch perspective is also fundamentally flawed: The best Watch on the market is probably a 3 App Device – it tells time, may be Day (Monday, Tuesday etc.), it may also have a stop watch…thats it! By April 10, 2015, we are expecting 100,000 Apple Watch Apps on AppStore. Currently, on an average there are 65 Apps per iPhone. We are estimating that an average Apple Watch will have 100 Apps per Apple Watch. There will be no single killer app for Apple Watch – each user will have their own set of Killer Apps … one way to think is that the consumer is getting 100 different devices in one Apple Watch.”
+
+This last point I can absolutely agree with. The notion of a “killer app” as VisiCalc was to the Apple II, for instance, is outdated thinking. To be the kind of mass market device it needs to be, the Apple Watch will have to be all things to all people — which is essentially what the iPhone currently manages to be.
+
+We’ll have to wait a bit longer to see if Chowdry’s figures hold water, but there’s no doubting his enthusiasm. And at a time when Apple can seemingly do no wrong, who can entirely blame him?

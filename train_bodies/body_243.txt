@@ -1,0 +1,20 @@
+An alleged bug in iOS 8 appears to be deleting documents stored in iCloud Drive without the user's permission.
+
+Discovered by MacRumors after complaints surfaced from users of the blog site's forums, the bug is triggered by the option to Reset All Settings.
+
+Found in the Reset screen under the General category in Settings for iOS 8, the Reset All Settings option is supposed to simply reset your iOS settings but leave your data and media untouched. Yet several forum users say that's not the case as certain iCloud documents also vanished after they reset all settings.
+
+Based on user comments, the bug seems to be specific to documents from iWork apps, such as Pages, Keynote, and Numbers, MacRumors said. One user reported that his iWork documents were deleted after resetting all settings, but other data files remained in iCloud.
+
+"HELP," one user wrote. "Because iOS 8 was so sluggish on my iPad 3 I reset all settings (No data or media will be deleted) and sped it up BUT deleted my iWork data! Then promptly synced and deleted it in iCloud."
+
+"I just had this happen to me," another forum user wrote. "I had a bit of weird behaviour on my iPad, so I figured it wouldn't hurt to just reset all settings. For the hell of it, I did it on my iPhone as well. ALL DOCUMENTS LOST! How on earth does resetting settings (with a clear notice that data will not be lost) wipe out iCloud drive? It's embarassing."
+
+Apple's Time Machine feature is supposed to automatically back up your files so you can restore any that are lost. A couple of users said they checked Time Machine but were unable to retrieve the lost iCloud Drive files. However, a third person reported success with Time Machine, at least running the beta of OS X Yosemite. Several of the affected users say they've contacted Apple support personnel, who are investigating the issue.
+
+MacRumors ran its own test on the bug and reported the following:
+
+In our own testing, using "Reset All Settings" deleted all iWork documents stored in iCloud Drive on the iPhone and on iCloud.com. After allowing time for syncing to a Mac running OS X Yosemite, all of the documents disappeared from that machine as well. Preview and TextEdit documents, which cannot be accessed on the iPhone, remained untouched on the Mac.
+iCloud Drive is Apple's answer to Google Drive, Microsoft's OneDrive, and other cloud-based storage services. Beyond just syncing your files between your iOS devices and iCloud, you can directly store and retrieve documents and other files on iCloud Drive just as you can store and retrieve them locally.
+
+Apple did not immediately respond to a request for comment.

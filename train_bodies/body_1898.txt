@@ -1,0 +1,13 @@
+Amidst all the fist-pumping and Bono-goofing yesterday, one piece of information was conspicuously absent: The Apple Watch's battery life. What's the point of strapping a tiny computer to your body if it needs constant charging? According to Re/code, even Apple hasn't quite figured out the battery dilemma yet.
+
+After Tim Cook mentioned charging Apple Watch "every night" on stage, John Paczkowski confirms today that a source within Apple pins the charge-by date at nightly—which would imply that the Apple Watch has a battery life of less than a day. Apparently, Apple is still working to improve that number before release. "We anticipate that people will charge nightly which is why we designed an innovative charging solution that combines our MagSafe technology and inductive charging," an Apple spokesperson told Paczkowski, seemingly confirming the source.
+
+This isn't just Apple's problem. As a paradigm, smartwatches still have quite a few kinks that need working out before they'll seem truly functional—and battery life is one of the biggest. On Monday, Gizmodo's Brent Rose reported that the Moto 360's battery life, while not as bad as expected, was only about 24 hours.
+
+That's not terrible, but it does present some problems from a user experience perspective. The main selling point of many smartwatches is that they will constantly track your activity, from sleeping to working out. If your device needs to be charged for even a few hours every day, that's lost data, as information designer Nicholas Felton pointed out yesterday on Twitter:
+
+Also sad that the watch charging solution means unbroken health stats are impossible. Not necessary for everyone, but important for many.
+
+— Nicholas Felton (@feltron) September 9, 2014
+
+Sure, not everyone cares about tracking things like REM cycles. Not everyone will mind taking off their watch for a few hours every day. But the ideal use case for Apple Watch, just like a regular watch, is effortless omnipresence. It should just work—and for periods of time longer than 12 hours. [Re/code]

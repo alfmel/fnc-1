@@ -1,0 +1,13 @@
+Before Apple unveiled the Apple Watch last September, reports indicated the device would come with 10 sensors to track health and fitness data, leading some healthcare professionals to find the unveiled Apple Watch's health features disappointing. In a new report, The Wall Street Journal offers a look at the original Apple Watch health features that were dropped due to consistency problems.
+
+Apple began developing the watch about four years ago, with a focus on health and fitness. It’s not unusual for Apple to experiment with many technologies or shift focus during product development, but the watch was especially challenging, people familiar with the matter said. Internally, the project became known as a “black hole” sucking in resources, one of these people said.The Apple Watch originally featured sensors that measured the conductivity of skin, allowing the device to detect stress levels and heart-rate monitoring similar to an electrocardiogram, also known as an EKG. Apple also experimented with ways to detect blood pressure or how much oxygen is in a user's blood. However, a mix of consistency problems and potential oversight caused Apple to switch the focus of the device from health-related to a more general do-everything product.
+
+The skin conductivity features didn't perform well with people who had hairy arms or dry skin, while results varied depending on how tight an Apple Watch was worn on users' wrists. Additionally, if Apple decided to use the health data to provide "health or behavioral advice", the Cupertino company would have to seek approval from the U.S. Food and Drug Administration and other regulators.
+
+While these features were dropped for the first version of the Apple Watch, sources tell the WSJ that they could appear in future versions of the device, echoing a Reuters report from September.
+
+Last week, Apple CEO Tim Cook said the company's objective with Apple Watch is to "change the way people live their lives" and that people would be surprised by the breadth of what the device can do, which includes activity monitoring, reminding users to stand up after a certain time period, and non-verbal communication with friends. Apple is currently asking developers to have their Apple Watch apps ready by mid-February, with some developers traveling to Apple's Cupertino headquarters for help.
+
+Cook has confirmed the Apple Watch will launch in April. The Wall Street Journal reports that Apple will make five to six million units for the first quarter, with half of those units being the entry Apple Watch Sport and one-third being the mid-tier stainless-steel Apple Watch.
+
+Related roundup: Apple Watch , Tag: wsj.com

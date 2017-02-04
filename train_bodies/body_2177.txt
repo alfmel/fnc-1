@@ -1,0 +1,15 @@
+On Monday morning, a report surfaced claiming that Comcast has been discouraging customers from using the Tor Browser, a browsing program designed to allow users to surf the Internet with greater anonymity than most browsers. Monday’s report was repackaged on a number of other sites, stating that Comcast has "declared war on the Tor Browser." The report goes on to suggest that Comcast has contacted some users telling them that they risk disconnection if they continue using Tor. The report may have generated a lot of clicks but is totally inaccurate.  
+
+Comcast is not asking customers to stop using Tor, or any other browser for that matter. We have no policy against Tor, or any other browser or software. Customers are free to use their Xfinity Internet service to visit any website, use any app, and so forth. 
+
+Here are the facts:
+
+Comcast doesn’t monitor our customer’s browser software, web surfing or online history.
+
+The anecdotal chat room evidence described in these reports is not accurate.  
+
+We respect customer privacy and security and only investigate and disclose certain information about a customer's account with a valid court order or other appropriate legal process, just like other ISPs. More information about these policies can be found in our Transparency Report here.
+
+We do not terminate customers for violating the Copyright Alert System (aka "six strikes"), which is a non-punitive, educational and voluntary copyright program. Read more here.
+
+Our customers can use Tor at any time, as I have myself.  I’m sure many of them are using it right now.

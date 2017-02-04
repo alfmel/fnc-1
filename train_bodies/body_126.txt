@@ -1,0 +1,11 @@
+The Apple Watch was unveiled alongside the iPhone 6 and iPhone 6 Plus on September 9, but apart from Apple detailing its features, not many specifications were detailed. However, an analysts citing supply chain sources claims to have narrowed down a significant proportion of the specifications.
+
+According to Timothy Arcuri of Cowen and Company (via AppleInsider), Apple's smartwatch will feature 512MB of RAM, likely supplied by Samsung, Hynix and Micron. The Apple Watch is also being tipped to come in 4GB and 8GB variants, with the 4GB model the standard version. Arcuri says the flash-based storage will be procured from "most major NAND suppliers."
+
+Arcuri also predicted that Broadcom BCM43342 chipset might act as the wireless combination chip for the Apple Watch. Interestingly, the chipset includes a GPS radio functionality, which is "somewhat at odds" with Apple's announcement of the Watch requiring to be paired with the iPhone for GPS data. The report speculates that either Apple has used a modified version of the chipset, or disabled GPS functionality for better battery life.
+
+Scheduled to arrive in early 2015, the Apple Watch's wireless charging circuit seems to be supplied by Integrated Device Technology, while the NFC chips, power management integrated circuits, MEMS sensor, microcontroller, and Wi-Fi front-end chips are said to be supplied by NXP and AMS, Maxim Integrated Products and Dialog Semiconductor, Invensense, STMicroelectronics, and Skyworks respectively.
+
+The Apple Watch was launched alongside the Apple iPhone 6 and iPhone 6 Plus handsets at the firm's keynote event earlier this month. There are three variants of the Apple Watch - Watch Sport, Watch Edition and the Watch.
+
+Across the three variants, there are a total of 18 different styles of straps available, which means that users will be able to customise the Apple Watch - both physically and in terms of software, to stand out from others, but Apple hasn't given out details on the pricing of different designs yet.

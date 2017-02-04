@@ -1,0 +1,13 @@
+(This article originally appeared on tech.qq.com on 03/02/2015. For original Chinese, click here.)
+
+
+
+The App Store's 'Top Apps' lists are well known to the smartphone-savvy public, but how apps make it into those lists is perhaps less understood. Today, one micro-blog shared photos under the heading "It's Hard Being a Top App Worker," publicly exposing the operations behind App Store rank-boosting (Ed: which I henceforth dub 'crank-boosting') labour. 
+
+The exposé, shown in the picture, displays a 'Top App list worker' in their work place, which features a simple shelf containing hundreds of iPhone 5Cs. In a room filled with such workstations from one side to the other, mobile phone labour takes place at an industrial level. Simply put, a worker downloads (and deletes and downloads, etc.) an app to boost its rank on the App Store, calculated by how many times the app has been downloaded. One worker can operate as up to 100 unique users. 
+
+Apple has previously adopted measures to deter crank-boosting in order to ensure fair rankings for developers and users. In 2014 November, Apple introduced a 1 yuan strategy to drop the threshold for users to download apps, also intended to negatively impact the crank-boosting industry. 
+
+But as crank-boosting simulates genuine user activity, it is nearly impossible to detect or safeguard against. 
+
+Users accustomed to comparing and contrasting apps before download may be unknowingly swayed by crank-boosted apps that have purchased their celebrity. Such sneaky, industrious operations are tricky to break.

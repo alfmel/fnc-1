@@ -1,0 +1,11 @@
+Apple is reportedly relying on Samsung’s chip-building talents to mass-produce the brand-new chip in the Apple Watch as the device’s launch nears. The S1 system-in-package (SiP) that Apple was mostly secretive about during the smartwatch’s introduction contains various other components on top of Samsung’s chip, including mobile DRAM, NAND flash, and other peripheral chips, with Advanced Semiconductor Engineering providing the SiP modules.
+
+FROM EARLIER: It looks like Samsung is finally developing a worthy rival for the Apple Watch and Moto 360
+
+According to Digitimes’ sources, Samsung has won orders from Apple to make some 3,000 to 4,000 12-inch wafers each month, using its 28nm process technology, with the Apple Watch expected to launch at some point in March.
+
+The Apple Watch is expected to become another important revenue source for Apple, though analysts disagree on the device’s sales performance in its first year. Some expect Apple to sell an impressive number of smartwatches by converting plenty of existing iOS users into first-gen Apple Watch buyers.
+
+Samsung is reportedly making a secret new chip in the Apple WatchSamsung is reportedly making a secret new chip in the Apple Watch
+
+Digitimes says that others have revised downward the number for first-gen Apple Watch shipments to as low as 10 million units for 2015, although they seem to be more optimistic on the device’s second-generation model that will presumably offer stronger battery life and other important improvements.

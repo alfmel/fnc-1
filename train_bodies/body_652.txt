@@ -1,0 +1,15 @@
+The Apple Watch might have been four years in the making and the most Jony Ive-centric Apple product yet — but the company didn’t get everything it was wishing for from the device.
+
+According to a new report from The Wall Street Journal, Apple originally wanted its smartwatch to focus far more prominently on health-related innovations, only to be forced to go in another direction midway through the project.
+
+If Apple had had its way, the Apple Watch would have boasted smart sensors capable of tracking blood pressure, heart rate and even stress levels — but despite hiring top people from the biosensor industry, the technology didn’t work quite as well as had been hoped.
+
+Problems were apparently posed by Apple Watch wearers with hairy arms and dry skin, with sensor results also varying depending on how loosely or tightly the watch is worn. Despite a heavy drain on Apple resources, engineers were unable to create a suitable solution in time for the company to reveal the device.
+
+As a result, the Apple Watch shipping in April will be far more of an iPhone accessory/companion than had originally been planned, which is no doubt useful for growing Apple’s interlocking ecosystem but is less good in other ways. Although Apple has the luxury of taking its time with products, yesterday’s New Yorker story reveals how much pressure there was to announce a new category of device post-Steve Jobs.
+
+While there’s still a lot to be excited for, the health-tracking applications of the Apple Watch were ones that people are very excited about. Apple has already had success introducing HealthKit into top hospitals, and a medically approved wearable could potentially help grow relations between Apple and the healthcare industry.
+
+In a recent interview, Steve Wozniak discussed health-tracking as one of the most potentially exciting features of the Apple Watch. Cult of Mac has also written about the potential of the Apple Watch becoming your “digital doctor.”
+
+Sadly, it seems we’re going to have to wait at least a couple of generations before the technology can live up to that billing.

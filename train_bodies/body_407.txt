@@ -1,0 +1,19 @@
+The health-focused smartwatch that Apple initially envisioned is not the same one the company will unveil next month, according to a new report.
+
+Apple's original concept for the Apple Watch was one that would track blood pressure, heart activity, stress levels and other functions, the Wall Street Journal reported Monday, citing sources familiar with the device. But none of those features will make it into the final product due to a variety of issues, according to the Journal. Some features didn't work properly. Others proved too complex. And some would have required regulatory approval. As such, Apple was forced to scale back the range and depth of health features for its first entry into the smartwatch arena, the sources said.
+
+Due out in April, the Apple Watch will enter an already crowded playing field, competing with products from Samsung, Sony, Motorola, Microsoft, LG and others. It's been thought that Apple postponed its release of a smartwatch at least in part to perfect the health and fitness monitoring features. But if the Journal's sources are correct, some of those features proved more challenging than expected.
+
+For example, the Journal reported, Apple tested sensors to measure skin conductivity, which would have helped monitor stress levels and heart rate. But the sensors ran into inconsistencies with different people, such as those with hairy arms or dry skin, and the results were mixed based on how tightly you wore the watch, according to the Journal's sources.
+
+Apple also tested ways to check blood pressure and the level of oxygen in the blood, but again, the results were inconsistent. Further, if those features strayed into the area of actually providing medical advice, they would have required approval from the Food and Drug Administration -- something Apple was trying to avoid.
+
+The difficulties in creating a smartwatch with such features prompted people at Apple to dub the project a "black hole" as it sucked in more and more resources, one of the sources said.
+
+As a result, Apple has been touting its first smartwatch as more of an all-purpose wearable. Yes, several key health and fitness features will be available and useful, especially as third-party developers create apps to tap into that market. But Apple is also busy promoting other aspects of the watch, including its variety of styles, its ability to act as an adjunct to the iPhone, its support for Apple Pay and its voice-activated controls.
+
+Will those features and the Apple name convince enough consumers to consider the Apple Watch over the competition? In December, Piper Jaffray analyst Gene Munster projected unit sales of 8 million for 2015. Wall Street has been forecasting sales of 12 million to 15 million. Apple has reportedly asked its suppliers to manufacture 5 million to 6 million watches for its first quarter of release.
+
+Whether initial sales are as healthy as expected, Apple will certainly come out with future models. Those could even include some of the health features that didn't pass muster the first time around, the Journal's sources added.
+
+An Apple spokeswoman told CNET that the company declined to comment on rumor or speculation.

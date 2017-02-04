@@ -1,0 +1,13 @@
+A report on Thursday claims the upcoming Apple Watch boasts a mysterious data connection port, previously undisclosed by Apple, that is currently being used for diagnostics and testing.
+
+According to TechCrunch, the port features six brass contact dots and is positioned inside the bottom groove designed to accept Apple's aftermarket straps. Technically, a six-contact connector is similar to Apple's Lightning protocol, which currently uses six of its eight leads for charging and data transfer.
+
+It is not clear if the port will be included when Apple Watch hits store shelves, but sources inside Apple have confirmed its existence on what the publication believes are shipping versions of the device.
+
+A source said the port currently plays a role in diagnostics, but points out that it could be used as a connection point for accessories in the future. TechCrunch speculates that such a data port could be used as a means to facilitate feature expansion, perhaps "smart bands" that extend battery life or tack on GPS and other sensing capabilities.
+
+Smartwatch maker Pebble recently revealed a similar program for its new Pebble Time series. Dubbed "smartstraps," the initiative is an open platform that will let accessory makers build hardware like GPS or heart rate monitoring.
+
+There are currently no rumors suggesting Apple plans to market such accessories, but the port's existence hints at interesting expansion possibilities, assuming it ships as part of Apple's final design. For example, an expansion port could extend the Watch's lifecycle by offering users a road to upgrade features instead of purchasing a new device every year. This would be especially helpful for buyers looking at expensive gold Apple Watch Edition models.
+
+Apple is expected to reveal more details about Apple Watch at a special event on March 9. AppleInsider will be on hand in San Francisco with live coverage.

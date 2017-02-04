@@ -1,0 +1,37 @@
+update
+
+This story was a hoax written by a site which appeared to be the English-language website of the Chinese state-run broadcaster, CCTV. And we fell for it.
+
+The original blog post, which was cited by us and other publishers, was published at cctvnews.cn. The fake site used CCTV’s logo and embedded tweets from the official @CCTVNEWS Twitter account.
+
+The actual URL of CCTV English is english.cntv.cn.
+
+However, an internet directory search shows that the fake CCTVNews site – which is now offline – is based in Hangzhou, 1,300 miles from CCTV’s real headquarters in Beijing.    BF_STATIC.timequeue.push(function () { document.getElementById("update_article_update_time_4429703").innerHTML = UI.dateFormat.get_formatted_date('2014-12-08 04:28:40 -0500', 'update'); });
+
+This week CCTV News, the state-run broadcaster, came up with these tips for any Chinese people considering an English name – one of which is to steer clear of “Dumbledore”.
+
+It’s common for Chinese people to choose an English name, partly to make conversation with non-Chinese speakers easier. Many Chinese students in western colleges go by an English name, for example.
+
+But as CCTV points out, some people are choosing names that might sound odd to English speakers.
+
+The article says: “While native English speakers are stuck with whatever happy or unhappy names they’ve been given, Chinese and other ‘non-natives’ get the lucky choice of picking their own English name.
+
+“However these choices can mean more than you think!”
+
+Religious, mythical, and fictional characters such as Vampire, Satan, Medusa, and Edward Cullen are a no-no.
+
+“Unique names like these aren’t just very amusing to English speakers, it also suggests you have some connection to that name,” the article warns.
+
+“So if you call yourself Satan, you might get a few foreigners thinking you’re anti-Christian, or possibly a member of a heavy metal band.”
+
+CCTV says Harry is OK, if you’re a Harry Potter fan, but only because it was a common name to start with.
+
+Also on the “no” list are common everyday words that aren’t used as names in English, such as Lawyer.
+
+Other examples include Surprise, Dragon, and Fish – things that might be related to the characters in someone’s Chinese name.
+
+“Sure, have fun and pick a random object or word as a name, but avoid them if you want a call back from that serious law firm in America.” CCTV says.
+
+CCTV closes the article with this advice for anyone thinking of an English name:
+
+A good way to work out the ‘feeling’ of a name is to watch a bunch of American movies and sitcoms. They’re full of name stereotypes – you’ll find the good girls’ are all ‘Janes’, the jock boys are still ‘Buds’ and the geeks are called ‘Sheldon’.

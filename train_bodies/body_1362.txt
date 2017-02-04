@@ -1,0 +1,262 @@
+Our Retina MacBook Air rumour article brings together everything we know or can plausibly predict about Apple's next MacBook Air laptop: a laptop that we're pretty sure will come with a Retina display. We're also interested in rumours that Apple will be launching its next MacBook Air in a new size: one based on a 12in screen.
+
+We report on (and analyse for credibility) all the rumours about every aspect of the new MacBook Air with Retina display: its release date, so you'll know exactly when the new Retina MacBook Air will launch; the Retina MacBook Air's specs, features and design; its UK pricing and availability; and all the rest of the clues and hints circulating on the web that could help us work out what to expect, and when to expect it. Finally, we will show you any Retina MacBook Air images that surface online, together with concept and mockup illustrations produced by clever artists with an eye for prediction.
+
+We'll update this article whenever we hear of new information, clues and rumours about the next MacBook Air, so bookmark this page and check back here regularly for the latest information about the new MacBook Air with Retina display.
+
+UPDATED: The plot thickens! Apple website 9to5Mac has commissioned an artist to produce detailed images of the next MacBook Air, based (the site says) on information from sources who have used prototypes. More info in the MacBook Air redesign section.
+
+Read our MacBook Air reviews \ Which Mac laptop? MacBook Air vs MacBook Pro comparative review \ Best Mac 2014
+
+Plus, find out what's in store for next year: Apple rumours and predictions for 2015
+
+Retina MacBook Air release date rumours: When is the new MacBook Air coming out?
+The latest 'word on the street' (not our words) sounds to us like a bit of a long shot, but here goes. It's been suggested by a number of websites that Apple will launch its next range of MacBooks during the Christmas holidays.
+
+Aside from the obvious problem (which is that this would be an unbelievable nightmare for us poor souls in the media), this seems to be a case of a reasonable article by Boy Genius Report, written back in August, being rehashed and misinterpreted this month.
+
+For a start, BGR wrote that the next MacBook Air would be ready in time for the Christmas holidays, not launched during them (releasing during the holidays would be a truly bizarre move, denying the products access to the lucrative pre-Christmas shopping period). That nuance seems to have been lost in translation. And beyond this, the article was as we said written in August, at which point a pre-Christmas launch still seemed possible. Now we're pretty much certain that the Retina MacBook Air will have to wait until 2015.
+
+UPDATE, 7 Jan 2015: Sure enough, no MacBook Air appeared over Christmas. The very idea! The latest rumour suggests instead that a radically slimmed-down 12in MacBook Air will launch in mid-2015, perhaps making an appearance at WWDC 2015. See more details and images in the Design section, below.
+
+We've been awaiting the launch of a new MacBook Air for some time. Back in summer 2014 Apple made a few tweaks to the MacBook Air line up, but this was mainly to reduce prices; the processor bump was very slight. Read our reviews of the current MacBook Air range here: 11in 2014 MacBook Air review and MacBook Air 2014, 13in, review.
+
+What people are really waiting for is a new MacBook Air with Intel's (delayed) Broadwell processor, and a Retina display.
+
+The new MacBook Air line up is said to include a completely new 12-inch model which may replace the 11-inch version, giving customers the option of a slighly bigger screen, or it may replace the 13-inch model, where customers could instead opt for the comparitively priced 13-inch MacBook Pro with Retina display.
+
+So when will this new MacBook Air arrive? Reports in mid June suggested that Apple would begin production of this 12-inch MacBook Air in the third quarter. According to a DigiTimes report, Quanta Computer was set to begin production of the new 12-inch MacBook Air in July. This may have started, if the new Intel chips arrived in time...
+
+They may have: Intel has issued a press release regarding the arrival of its new Core M chip that some believe could be used in the new MacBook Air. A number of manufacturers are already said to be using this new chip in their laptops and tablets, and some of these models will be available in October. According to Intel, Acer, Asus, Dell, HP, Lenovo and Toshiba are all using the Core M.
+
+If this new Intel chip is used by Apple, reports suggest that the new Retina MacBook Air will be available in time for Christmas.
+
+In an August report on Digitimes, the Taiwan-based site claimed that its sources in the Taiwanese supply chain said that the production of components for the new MacBook had begun and that it may launch before the end of this year, or next year.
+
+However, there are also reports that suggest the new Retina MacBook Air could be delayed until next year - it may not be using these Core M chips, relying instead on a different series of Intel Core i5 Broadwell processors (more on that below).
+
+One report even suggests a mid-2015 launch date, claiming that the date has already been pushed back on multiple occasions.
+
+Read our New Retina iMac release date rumours
+
+New Retina MacBook Air rumours : Redesign, new colours, thinner design
+On 6 January 2015, 9to5Mac posted a series of images that it says show the next MacBook Air's radical new design.
+
+New 12in MacBook Air design mockups by 9to5mac
+Advertisement
+
+Bear in mind that these are artist's renders rather than photos of the real thing (although we're sure you'll agree that they're extremely well done - the artist is Michael Steeber). 9to5mac commissioned the images based on information it acquired from sources within Apple "who have used internal prototype versions of the upcoming computer".
+
+It isn't entirely clear how much of the design comes from the sources and how much from the artist's imagination, although many of the most major changes (to the keyboard layout, for instance) are obviously in the former category.
+
+Sure enough, the new design is for a laptop with a new screen size: 12 inches. Yet the slimming process in these designs is so extreme that the new 12in MacBook Air actually has a smaller body than the existing 11in MacBook Air. The screen is a little bigger, but everything around the screen has been shrunk.
+
+Here (according to the renders, at any rate) is how the new 12in MacBook Air (left) will compare to the current 11in MacBook Air (right):
+
+New 12in MacBook Air design mockups by 9to5mac
+
+This also partly illustrates the biggest bombshell in these leaks: the new design finds space for only one port on each side of the laptop. It has a USB port on the righthand edge (the new, smaller and reversible, Type-C USB) and a headphone socket, along with a couple of microphone holes, on the left. If this is right, the MacBook will have to be powered via the USB port - and sure enough, USB Type-C will be perfectly adequate for that purpose. It just means that you won't be able to use a USB hard drive, wired mouse (or wireless mouse dongle) or other USB accessory while the MacBook is plugged in.
+
+Macworld contributor Kirk McElhearn is one of the sceptics who have pointed out the numerous inconveniences this would impose, and it's possible - likely, we would say - that the eventual layout will be less extreme. We think the MagSafe power connection is likely to survive. 
+
+As we mentioned briefly, the keyboard is also designed differently. The power button now sits next to the Esc key at the top-left corner of the keyboard, and the keys have in general been shrunk down and squeezed together. The trackpad, on the other hand, has been expanded and now comes closer to the keys.
+
+New 12in MacBook Air design mockups by 9to5mac
+Advertisement
+
+Of course, 9to5mac's images aren't the first apparent leak about the next MacBook Air's design.
+
+Jack Marsh, a 16-year-old blogger who appears to have a source with plausible information about the new MacBook Air, seems to have become the the go-to blogger for all MacBook Air rumours. There have certainly been other young bloggers who have gained insight into unannounced Apple products, but as yet we can't be sure the claims are legitimate.
+
+Marsh has a rumour about the MacBook Air to add to an earlier rumour that suggested the new model would come in gold, silver and space grey finishes (more on that below). Now he claims his source has told him that the new design is so thin Apple has had to switch to a new reversible USB Type C connector which is significantly smaller than USB 3 (it's 8.4x2.6mm).
+
+Apparently the MagSafe port is also getting a redesign for the same reason: the laptop chassis is too thin to accomodate the current MagSafe charger. Indeed the MacBook Air may charge in an entirely new way, although Marsh's source wasn't clear on whether this had been finalised yet.
+
+The MacBook Air is also said to feature thin bezels with a keyboard that stretches to the edge of the laptop. Marsh also claims his source told him: "The display bezels are noticeably thinner - quite similar to the current MacBook Pro Retina lineup."
+
+Marsh's earlier report claimed that the new MacBook Air will come in iPhone-like space grey and gold finishes, as well as the usual aluminium.
+
+MacRumors lent some credibility to this inisial report, claiming that they are aware that "Apple has at least considered launching the 12in notebook with several different 'special edition' colour options". And it wouldn't be the first time Apple has introduced a range of colour choices on their Mac laptops.
+
+
+Advertisement
+
+New Retina MacBook Air rumours: 12-inch screen
+Many of the new MacBook Air rumours suggest this model will feature a 12in screen.
+
+Some sources point to evidence that Apple is working with 12in screens, but there have been claims that Quanta Computer will be building a rumoured 12-inch iPad later this year and it could be the iPad Pro that is being referred to here.
+
+According to a DigiTimes report in June, sources claim Apple wishes to introduce a smaller MacBook Air to make clearer the distinction between the 11-inch MacBook Air and the iPad Air with its 9.7-inch screen.
+
+Canalys analyst Daniel Matte also believes Apple is working on a new version of the MacBook Air - one with a 11.88in screen. Other rumours place the screen size at 12in (which probably matches Matte's expectations).
+
+In his blog Matte seems to be suggesting that there may only be one MacBook Air - this new 12-inch model, with the 13-inch model being phased out in favour of the 13-inch MacBook Pro with Retina display.
+
+KGI Securities analyst Ming-Chi Kuo suggested back in October 2013 that Apple will launch a 12-inch MacBook Air in 2014. Kuo suggested that this new MacBook Air would have an entirely new design.
+
+The smaller 12in model could still accommodate a reasonably sized screen and keyboard if it had a smaller bezel.
+
+New Retina MacBook Air rumours: Fanless design
+The new MacBook Air is also said to be even thinner than the existing MacBook Air. This is based on the theory that it will use Intel's new Intel Core M processor, a chip that doesn't need fans. By using this processor it is claimed that Apple could make the laptop 9mm thin. The MacBook Air is currently 0.3-1.7cm thick so it could be almost 1cm thinner at its thickest point.
+
+Apparently the fan assembly is the reason why the MacBook Air is thicker at one end than the other. Removing the fan assembly would enable Apple to make the laptop thinner than ever, according to reports.
+
+Presumably there will be some sort of cooling system built in, but that may not be necessary. The new Intel processors are said to be efficient enough to make the removal of the fan feasible - indeed there are already laptops on the market that do not feature a fan.
+
+Even the Core M may still require cooling in a 12in laptop, though. The new Broadwell processor should enable a fanless design for the smaller (up to 11.6in) laptop or mobile device, notes Motley Fool, based on what Intel said at its developer forum in 2013.
+
+It has been suggested that the MacBook Air could also offer thermal scaling and thermal management.
+
+Another advantage of a fanless design would be quiet operation. There would also be no moving parts (making it less likely to break), and it could also offer higher battery capacity because the remaining space could be used to house a bigger battery.
+
+(We can't help but worry that history could repeat itself if the MacBook Air is fan free - Steve Jobs famously refused to include a fan in the Apple III, leading to hardware failure.)
+
+New Retina MacBook Air rumours: USB Type C
+If Marsh's source (above) is correct the new MacBook Air may offer USB Type C support, which is smaller than USB 3 (it's 8.4x2.6mm). USB Type C is able to support 10Gbps data transfers, which is twice as fast as USB 3, but still slower than Thunderbolt 2 (although the same as the older Thunderbolt 1).
+
+It will also support for up to 100 watts of power, which is apparently enough to power 4K displays, as Apple's Thunderbolt cable does currently. The only problem is that USB Type C isn't backwards-compatible.
+
+New Retina MacBook Air rumours: Inductive charging
+Marsh's source also claims that the MagSafe port may get a redesign and that the MacBook Air may charge in an entirely new way. Perhaps the new MacBook Air will use inductive charging like the Apple Watch does.
+
+
+Advertisement
+
+New Retina MacBook Air rumours: Trackpad changes
+According to a report on Chinese site Weiphone earlier this year, the new MacBook Air will be thinner and lighter, a feat it will achieve by removing the fan and the clicking mechanism in the trackpad.
+
+The new 12in model will drop the trackpad and introduce "force and optical sensors" and new touch gestures, according to this report from BEN Latest News.
+
+New Retina MacBook Air rumours: Retina display
+Will the next MacBook Air feature a Retina display? That's one of the strongest and most persistent rumours, and it's certainly possible.
+
+Apple may opt to keep prices down (and battery life up) by keeping the screen non-Retina; but we don't think so. According to our own reviews of the MacBook Air, the MacBook Air is currently let down by its display, which has a lower resolution than the competition.
+
+Canalys analyst Daniel Matte has written a blog claiming that Apple will add a Retina display to the MacBook Air this year. He expects that we will see a 11.88-inch model with a resolution of 2,732x1,536 pixels, the same 264ppi that the iPad Air offers.
+
+He explains the significance of Apple using the same display technology for the MacBook Air and iPad Air, stating: "It turns out that an ~11.88" Retina MacBook Air with a 2732 x 1536 resolution happens to have the exact same pixel density as the 9.7" 2048 x 1536 Retina iPads: ~264 PPI. It would make sense for Apple to take advantage of the same display technology it has been utilizing for the 9.7" iPads by cutting their panels to this larger size."
+
+Rumours also claim that the new MacBook Air Retina display could have a resolution of 2,304 x 1,440 for a rumoured 12in display (discussed below). That's 226 pixels per inch, compared to 227 pixels per inch for the 13in MacBook Pro (which offers 2,560-by-1,600 resolution). This adds up to a 16:10 aspect ratio like that found on the 13in MacBook Air and MacBook Pro models, rather than the 16:9 aspect ratio currently offered by the 11in MacBook Air.
+
+The current 11.6-inch MacBook Air offers a 1366 x 768 pixel display.
+
+The rumours of a MacBook Air with Retina display have been long running. Back in February 2013, rumours suggested that Apple was planning to launch a revamped MacBook Air with a Retina display in the third-quarter of 2013. A separate report in March 2013 also claimed that Apple would introduce a Retina display to the MacBook Air in 2013. Since this didn't happen in 2013, it is perhaps likely for 2014. 
+
+Apple does appear to be moving the whole of its range to Retina display. The company updated the Retina versions of its MacBook Pro in 2013, and also introduced a Retina iPad mini in October 2013. 
+
+Wondering what the Retina display fuss is all about? Read: What's a Retina display, and what's a Retina HD display?
+
+Apple may use the IGZO display technology for the new display, offering improved power efficiency. The reason for the supposition is that Apple was recruiting for a engineers with experience in LED backlighting and LCD displays, in February, according to CultofMac. In an LCD display the bunches of pixels with wires running behind to connect them. The backlight has to shine though this mesh of wires to light up the pixels. In an IGZO display more light is able to shine though this mesh of wires, so the power requirements are lower, and battery life can be preserved. As a result we could see even longer battery life than the 12 hours currently on offer from the 13in MacBook Air.
+
+
+Advertisement
+
+Rumours about a Retina MacBook Air with a smaller display have been circulating for some time. KGI Securities analyst Ming-Chi Kuo suggested back in October 2013 that Apple will launch a 12-inch MacBook Air in 2014. Kuo suggested that this new MacBook Air would have an entirely new design.
+
+Then back in January 2014, Evercore Partners analyst Patrick Wang predicted that a 12in MacBook/iPad hybrid would launch in the autumn of 2014. It is possible that the rumoured Retina display MacBook Air could be this Mac.
+
+Canalys analyst Daniel Matte also believes Apple will add a Retina display to the MacBook Air this year.
+
+New Retina MacBook Air rumours: Processor
+Intel has announced the new Intel Core M chip. Some expect that this processor may be used by Apple inside the new MacBook Air. As mentioned above, because this chip doesn't need fans, the new MacBook Air could be less than a centimeter thick at its thickest point. Since it uses the 14nm processor, the processor itself it is tiny.
+
+The Core M processor should also enable the new MacBook to be more power-efficient with better battery life. Intel claims it's the most energy-efficient chip yet.
+
+The Core M also offers excellent graphics processing power, according to Intel. Intel says it will offer seven times the graphics power of four-year-old machines, and double the graphical and three times the web performance of the current range of high-end tablets.
+
+However, Intel has not confirmed that Apple will use the new processor. (In the press release regarding the new chip, Intel mentions Acer, Asus, Dell, HP, Lenovo and Toshiba as potentially using the Core M. Some of these models will be available in October, according to Intel.)
+
+The Core M is designed for small laptops, large tablets and 2-in-1 devices, and Intel is positioning the chips as being for use in laptops of 13.3in, tablets above 10in and dual devices. Apple would traditionally use the Core i5 chips in its MacBook, so it is possible that these processors will never appear in a MacBook Air which may instead use the new U Broadwell processor, which may not ship until 2015.
+
+Redmond Pie reports that performance with the Core M hasn't been particularly impressive; it was featured in the Lenovo Yogo 3 Pro, which didn't exactly set the world alight: benchmark speed tests and overall reviews rated the device quite poorly. It's therefore been suggested that Apple may give the Core M a miss and go instead for an i5 or i7 chip.
+
+(On the other hand, some analysts have argued that Lenovo's implementation of the Core M, rather than the innate qualities of the Core M itself, was to blame for the sub-standard performance, and that Apple's engineers would be able to coax solid performance from a Core M-equipped MacBook Air. We shall see.)
+
+Whichever Broadwell processor Apple does use, it should make the Retina display MacBook Air possible. Broadwell is said to consume 30 percent less power than its predecessor Haswell, and that should be good news for battery life on the portable Macs, especially those with power hungry screens.
+
+Other features of the Broadwell chip are that it is low power and offers integration with WiDi, 4G WWAN and WiGig networks.
+
+
+Advertisement
+
+New Retina MacBook Air rumours: May not use Intel chips
+This rumour has been floating around for some time. It is possible that Apple will ditch the Intel processor in its range of laptop in favour of its own home-made A-series chips, like those found in the iPad and iPhone.  
+
+Some have even speculated that the new MacBook Air could mark some sort of crossover between the iPad and the MacBook, perhaps an iPad Pro.
+
+However, rumours that Apple will move from Intel to ARM chips seem unlikely, based on this explaination from Cult of Mac.
+
+New Retina MacBook Air rumours: UK price
+With the price of the MacBook Air and MacBook Pro with Retina display being so close we had expected that Apple would reduce the price of the entry-level MacBook even further. It's currently £749 for the 11in model, which is £100 less than in 2013. This compares to the MacBook Pro Retina starting price of £999. However, the fact that the top-of the range iPhone 6 Plus costs more than the entry level MacBook Air (£789) makes us think that the MacBook Air price is more likely to increase.
+
+It may be that the 13-inch MacBook Air is discontinued, as that model is similar in price to the 13-inch MacBook Pro with Retina, but not equal in specs. This would leave the cheaper 12-inch MacBook Air models with, potentially, an entry-level price of £800.
+
+When it first launched in October 2012, the 13-inch MacBook Pro with Retina display started at £1,449. This was reduced to £1,249 a few months later when the range received a processor upgrade. Now, with the April 2014 update to the MacBook Air, the entry-level price of the 13-inch model is a much more compelling £999 which makes the difference between the 13-inch MacBook Pro with Retina display and the 13-inch MacBook Air £250 rather than £150.
+
+In his predictions last year, KGI Securities analyst Ming-Chi Kuo suggested that the price of this new 12-inch MacBook Air model could be lower than the current line up of Mac laptops.
+
+Read: Which 13-inch MacBook should I buy?
+
+Didn't Apple already introduce the 2014 MacBook Air?
+Apple unveiled the latest update to the MacBook Air on 29 April 2014.  Quietly updating its MacBook Air line-up with improved Haswell processors from Intel. You can read our review of the 2014 11in MacBook Air and the review of the 13in MacBook Air here.
+
+Aside from the small processor boost and a tiny battery life tweak, the main change for the new MacBook Air models was the price. Each model is now under £1,000, with prices starting at £749, £100 less than the previous models. This helps keep the MacBook Air an attractive option for customers, as the previous price was not much different to the price of the new MacBook Pro with Retina display.
+
+The range update came as some surprise as the Retina display for the MacBook Air rumour was already in circulation. Prior to the MacBook Air update in April, there were suggestions that the new MacBook Air with Retina display could launch at WWDC, but this was obviously not the case.
+
+Read our 5 reasons to buy a MacBook Air and 5 reasons NOT to buy a MacBook Air.
+
+Apple has updated its MacBook Air and Retina MacBook Pros for 2014, read more here:
+
+2014 13-inch Retina MacBook Pro review
+2014 15-inch Retina MacBook Pro review
+11in 2014 MacBook Air review
+MacBook Air review (13in, 2013)
+Why is the Retina MacBook Air delayed?
+If there is a delay, the key reason may be the availability of Intel processors, rather than the production of the new design.
+
+Intel's newest generation of chips - the successor to the Haswell chips currently in the MacBook Air - called Broadwell has been plagued by delays. However, in a conference call about Intel's second-quarter results on 15 July, Intel's chief executive Brian Krzanich confirmed Intel’s hardware partners will have Broadwell systems on store shelves in the run up to Christmas. He said: "We said we would have products on shelves for the holiday season and we continue to work with our partners and we’re on schedule to have product on shelf in the holiday."
+
+As we mention above, some of these new chips are now shipping, however, anyone awaiting the new Retina MacBook Pro, MacBook Air, iMac and Mac mini should note that there are various Broadwell chips being developed by Intel, and the chips that Intel confirmed are shipping now are the M variety, destined for fanless two-in-ones. The new MacBook Air may use the U Broadwell processor, which may not ship until 2015.
+
+We are sure that Apple is pretty frustrated with Intel.
+
+Shipment of Skylake – the successor to Broadwell which will offer even more power than that chip - is also delayed.
+
+New Retina MacBook Air release date: Will the MacBook Air be an iPad Pro?
+There are also rumours that Apple could launch a 12in iPad, but this might not arrive until 2015, or the rumours could relate to the 12in MacBook.
+
+There are also rumours that the new MacBook Air merge with the iPad to create the iPad Pro. You can read more about the iPad Pro rumours here.
+
+We think that a MacBook Air that offered a dual boot system for iOS 7 and Mac OS X would be very interesting, however, Tim Cook last year ruled out any kind of convergence suggesting that a Toaster Refrigerator wouldn't work.
+
+Will the old non-Retina MacBook Air remain?
+If Apple launches a 12in MacBook Air, will it discontinue the existing models? It's possible that if Apple launches a 12in Retina MacBook Air model it will discontinue both, or either of the existing models. Equally, Apple could maintain one of the existing models as an entry-level model. It seems more likely that it would keep the 11in model on at an even lower price, rather than keep on the bigger 13in model.
+
+One reason why Apple may keep a lower-priced MacBook Air on is the fact that Apple has just introduced a new entry-level iMac and already the MacBook Air looks superior to that, despite costing less. If Apple wants a low end option, it would appear unlekely that the Retina MacBook Air would be it.
+
+Read our review of the new £899 iMac and see how it compares to the MacBook Air.
+
+The new MacBook Air will be solar-powered
+Ok, so this is a bit of an out-there rumour, but it really is possible that Apple will one day release a new MacBook Air with a solar powered display.
+
+In January 2013, Apple was granted a patent that described a method for harnessing sunlight to illuminate a MacBook's display. This patent is actually the seventh solar-related patent Apple has gained in the past two years.
+
+New Retina MacBook Air leaked images
+At present, there are no new MacBook Air leaked images to share with you, but we will update this story as soon as one surfaces on the web.
+
+We have seen a few concept images, however...
+
+Perhaps inspired by the Mac Pro, or the Space Grey iPhone 5s, there are calls for a black version of the MacBook Air. TUAW has provided some renders of how such a MacBook Air could look.
+
+
+Advertisement
+
+Here is our mockup of how a gold MacBook Air could look with an iOS-style operating system.
+
+
+Advertisement
+
+Read the latest MacBook Air News, Reviews and Features here
+
+Wondering whether to buy a MacBook or a Mac desktop? Find out if you should buy a Mac laptop or Mac desktop here. Also: read our Best Mac to Buy Mac Buyers Guide where we compare every Mac.

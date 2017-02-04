@@ -1,0 +1,15 @@
+Apple is reportedly limiting what Apple Watch apps are capable of doing, ruling out certain features in order to ensure battery life is not too heavily drained in the initial model, which could tarnish the high-profile launch.
+
+According to Business Insider, developers working on applications for the new Apple wearable have cautioned that consumers should temper their expectations of what the initial Apple Watch is capable of.
+
+The caution harkens back to the initial iPhone launch, when the App Store did not exist, and only the apps pre-loaded by Apple could be used. While the smartphone ecosystem has dramatically changed since then, and Apple’s App Store has proved a template for a new industry, the Apple Watch looks as though it may mirror this model until capabilities improve.
+
+The primary issue is battery life, and Apple’s continued attempts to increase the time between recharges. Earlier reports suggested that the device would have only four hours of active battery life, and many of the sensor features initially touted to be included have been cut due to inconsistency.
+
+Those sensors that do remain are the source of many of the battery issues, according to Sumit Mehra, CTO of Y Media Labs, an app studio which has been developing content for the Apple Watch.
+
+“Sensors take up a lot of battery, and they don’t want every app out there on the Apple Watch using these sensors because all of a sudden this watch will only give you four hours of battery life, and then it’s not a watch anymore if I have to charge my wrist every four hours,” said Mehra in a statement to Business Insider.
+
+Apple has not yet released its WatchKit SDK for developing standalone apps for the Apple Watch, with developers at the moment limited to creating extensions to iPhone apps that will function on the watch. This helps save battery for the wearable, and means apps can run on the iPhone’s superior processor, but also limits Apple Watch apps to notifications, app extensions and presenting summaries of information – essentially limited versions of what the iPhone can already do.
+
+With the expected launch of the Apple Watch less than a week away, and Apple predicting huge numbers of sales for its first ever wearable, consumers might be wise to rethink what the device is going to be capable of, at least for the time being.

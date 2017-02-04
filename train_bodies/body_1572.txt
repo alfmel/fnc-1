@@ -1,0 +1,19 @@
+Multiple users of anonymous web browser Tor have reported that Comcast has threatened to cut off their internet service unless they stop using the legal software.
+
+According to a report on Deepdotweb, Comcast customer representatives have branded Tor "illegal" and told customers that using it is against the company's policies.
+
+Tor is a type of web browser that, in theory, makes all your internet activity private. The software routes traffic through a series of other connected internet users, making it difficult for governments and private companies to monitor your internet usage. Up to 1.2 million people use the browser, which became especially popular after Edward Snowden leaked information showing that the NSA was eavesdropping on ordinary citizens. Prior to that, Tor had been popular among people transacting business on Silk Road, the online market for drugs and hitmen.
+
+The problem is that downloading or using Tor itself isn't illegal. Plenty of people might have legitimate reasons to want to surf the web in private, without letting others know what they were looking at. But Tor has been pretty popular with criminals.
+
+Comcast has reportedly begun telling users that it is an "illegal service." One Comcast representative, identified only as Kelly, warned a customer over his use of Tor software, DeepDotWeb reports:
+
+Users who try to use anonymity, or cover themselves up on the internet, are usually doing things that aren’t so-to-speak legal. We have the right to terminate, fine, or suspend your account at anytime due to you violating the rules. Do you have any other questions? Thank you for contacting Comcast, have a great day.
+
+Comcast customers, speaking to Deepdotweb, claimed that Comcast repeatedly asked them which sites they were accessing using Tor.
+
+In a statement to Deepdotweb, Comcast defended its actions, seemingly asserting that it needs to be able to monitor internet traffic in case they receive a court order:
+
+We respect customer privacy and security and would only investigate the specifics of a customer’s account with a valid court order. And if we’re asked by a court to provide customer information, then we ask for a reasonable amount of time to notify the customer so they can decide if they would like to hire a lawyer and if they do, then we turn the case over to them and they proceed with the judge directly and we step away.
+
+SEE ALSO:  A Comcast Customer Tried To Cancel His Account But Was Put On Hold Until Comcast Closed For The Day

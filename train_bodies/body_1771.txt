@@ -1,0 +1,11 @@
+According to supply chain rumors, a Samsung processor will power the Apple Watch.
+
+The Apple Watch - which is expected to land later this year - is Apple's newest class of device and will integrate closely with the iPhone, and allegedly be powered by a Samsung chip manufactured using the company's 28-nanometer process.
+
+Samsung used to manufacture chips for the iPhone or iPad, but it was replaced by TSMC. Apple allegedly switched suppliers because TSMC could produce processors using the smaller 20-namometer manufacturing process. The smaller the manufacturing process, the smaller the chips and the less energy they consume.
+
+The rumor is that Apple has ordered 3,000 to 4,000 12-inch wafers monthly. Each wafer can supply several hundred processors.
+
+One question that remains is why Apple would choose a Samsung chip built using a 28-nanometer process over a smaller, more efficient 20-nanometer chip from TSMC. Perhaps it comes down to price, or it could be that TSMC is already stretched supplying chips for iPhones and iPads. Or maybe the report is inaccurate.
+
+How many Apple Watch units that Apple expects to shift over the course of the year is unknown, although some analysts have suggested that the figure could be around the 10 million mark.

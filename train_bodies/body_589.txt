@@ -1,0 +1,19 @@
+The reveal of the Apple Watch was unusual for Cupertino, which has traditionally announced products that are ready to launch. We won't be seeing the smarwatch until next year, and Apple is still keeping a few of the details under wraps, including the specs and price.
+
+But one source claims to know what the internals of the smartwatch will be. The word comes from analyst Timothy Arcuri of Cowen and Company, who quotes a source from Apple's supply chain.
+
+Apparently, the component creators believe the wearable will pack in 512MB of RAM and offer 4GB of RAM as standard, which puts it on an equal footing with the top Android Wear devices out there right now, such as the Samsung Gear 2 and the LG G Watch R.
+
+Arcuri also says that Apple might be offering an 8GB version of the watch as well, though it's unclear whether this information also comes direct from the source - or whether it's speculation on his part.
+
+Juice it up
+
+Finally, Arcuri also says he expects the Apple Watch to feature a wireless chip similar to the one found in the iPhone 5S, which actually included a GPS radio. However, that would contradict Apple, which stated that the Watch will need an iPhone in order to use GPS, so we'd say it's less likely.
+
+Speaking of chips, Chipworks has provided a visual teardown of the Apple Watch internals, and it reckons it's spotted the Broadcom Wi-Fi chip that Cupertino has chosen for its debut wearable.
+
+The important takeaway point is that, if Chipworks is right, the BCM4334 chip used will mean the watch should offer minimal power consumption in the connectivity department.
+
+However, the word right now is that Apple's smartwatch battery will last a day in its current state, so the company might have to look elsewhere in the watch if it wants to insert a little more juicepower before launch.
+
+Apple's watch is still in prototype right now but we don't expect too many of the specs to change before next year. If anything does, we really, really hope it's the battery life.

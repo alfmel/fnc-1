@@ -1,0 +1,29 @@
+Breitbart Texas reports:
+
+An Islamic Tribunal using Sharia law in Texas has been confirmed by Breitbart Texas. The tribunal is operating as a non-profit organization in Dallas. One of the attorneys for the tribunal said participation and acceptance of the tribunal’s decisions are “voluntary.”
+
+Breitbart Texas spoke with one of the “judges,” Dr. Taher El-badawi. He said the tribunal operates under Sharia law as a form of “non-binding dispute resolution.” El-badawi said their organization is “a tribunal, not arbitration.” A tribunal is defined by Meriam-Webster’s Dictionary as “a court or forum of justice.” The four Islamic attorneys call themselves “judges” not “arbitrators.”
+
+El-badawi said the tribunal follows Sharia law to resolve civil disputes in family and business matters. He said they also resolve workplace disputes.
+
+In matters of divorce, El-badawi said that “while participation in the tribunal is voluntary, a married couple cannot be considered divorced by the Islamic community unless it is granted by the tribunal.” He compared their divorce, known as “Talaq,” as something similar to the Catholic practice of annulment in that the church does not recognize civil divorce proceedings as ending a marriage.
+
+An Examiner.com article seems troubled by this.
+
+This, though, is a perfectly normal practice within religious groups in America. El-badawi is right that Catholics have long gone to Catholic authorities to resolve certain questions related to marriage. Orthodox Jews have long gone to Jewish religious courts (such a court is called a “beth din”) both to resolve marital matters and to resolve commercial disputes. Some Protestants sometimes do the same; 1 Corinthians 6:1 is often interpreted as calling for that.
+
+There are three ways in which these tribunals’ decisions have practical effect.
+
+1. Parties’ respect for the system: Religious people may often feel personally obligated to follow the judgments of respected authorities on their religious law. For instance, a Catholic who doesn’t get an annulment might feel obligated not to remarry, even if he thinks that he should have gotten the annulment, simply because he feels that God wants him to follow the church’s teachings and decisions.
+
+2. Social pressure: Would observant Muslims feel pressured to abide by a sharia tribunal’s ruling, when that will affect how their coreligionists, business partners, neighbors, and family members perceive them? You bet. Would Orthodox Jews feel the same? You bet, and I expect that Christians who operate within sufficiently devout and religiously homogeneous communities would have the same reaction. For an interesting, but rare, case of the legal system being asked to intervene to stop such social pressure and refusing to do so, see Paul v. Watchtower Bible & Tract Soc’y (9th Cir. 1987). (I think that, even in the absence of the Free Exercise Clause that were made in that case, but that might be unavailable in many states following Employment Division v. Smith (1990), a campaign urging people to shun the excommunicated would be protected under the Free Speech Clause, see NAACP v. Claiborne Hardware Co. (1982).)
+
+Indeed, one common argument in favor of religiosity is that community pressure tends to lead people to abide by religious obligations (not to steal, not to commit adultery, and more). The flip side is that community pressure tends to lead people to abide by religious obligations that we might not agree with (stay with a husband who mistreats you, never remarry, and so on). Of course, if there is also the threat of violence and not just community pressure, then the law can step in to punish the violence, and any explicit threats of violence. But the possibility of such violence in rare cases doesn’t allow the legal system to step in to block nonviolent social pressure in other cases.
+
+3. The parties could also enter into a binding arbitration agreement, under which they agree that the tribunal’s decision would be enforceable in civil court. Such agreements are common with secular commercial arbitration, even when the arbitration is supposed to apply law other than American law (e.g., English law or French law). And they are also permissible for religious arbitration.
+
+There are interesting questions about whether an arbitral decision is enforceable in secular American court if it applies substantive or procedural rules that discriminate based on race, religion or sex. I discuss this a bit in this post, and the comments to it are also much worth reading. But according to the Breitbart Texas article, El-badawi says that these tribunals do not conduct legally binding arbitrations; rather, their decisions are followed — when they are followed — as a result of the parties’ acquiescence and community pressure. As a result, these interesting questions don’t arise here.
+
+Religious communities have long had the right to use standard American contract law — coupled with the standard American liberty to exert social pressure on your family members, friends, neighbors and business partners — to have religious decisionmakers decide disputes. That’s especially so when the decisions are enforced just by community members’ own religious feelings, or by social pressure. But that can also be so, subject to some limitations, when the parties to the dispute agree to binding arbitration (which, again, doesn’t seem to be in play with the Texas Islamic tribunal).
+
+The remedy for those who disapprove of the religious law is leaving the community (or the religion). That is of course often very hard, for personal and economic reasons. It’s hard for Muslims. It’s hard for Orthodox Jews (and especially groups such as the Satmar Hasidim). It’s hard for Mormons, Jehovah’s Witnesses, the Amish, and members of lots of other groups. But that’s a necessary aspect of American social and religious freedom.

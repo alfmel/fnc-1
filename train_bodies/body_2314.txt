@@ -1,0 +1,8 @@
+It's bad enough how much they crop it. Now I noticed what I thought was a speeding up. Turns out they speed it up a full 7.5 percent.
+
+The test:
+
+My computer has a tuner card. I used this tuner card to digitally record Seinfeld from Fox Chicago roughly 10 years ago (I archived the entire series). Then I found which episode was on TBS tonight. In the upper-right window is a live feed from the tuner card. The source is TBS's SD feed via Dish Network. The lower-right is video playback from the digital recording, also recorded from Dish Network in 2003. I fed the audio from both the live feed and the video clip as well as the video from the S-video out on my video card to an external DVD recorder, then uploaded the final result to youtube. After 202 seconds of playback, the TBS live feed had advanced a full 15 seconds over the recording. This amounts to nearly 2 minutes over the course of a full episode.
+
+
+I lined up the windows as closely as possible so you can also see cropping. Between that and the extreme speed increase, TBS is butchering a classic.
